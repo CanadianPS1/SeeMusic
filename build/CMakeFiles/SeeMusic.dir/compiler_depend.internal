@@ -3,64 +3,61 @@
 
 CMakeFiles/SeeMusic.dir/Main.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/Main.cpp
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/GL/glew.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_opengl.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
  /home/gunch/Documents/GitHub/SeeMusic/frontend/FrontEndMain.cpp
  /home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.hpp
  /home/gunch/Documents/GitHub/SeeMusic/frontend/SeeMusicMain.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glew.h
- /usr/include/GL/glu.h
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_opengl.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -87,7 +84,6 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
  /usr/include/bits/libm-simd-decl-stubs.h
- /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
  /usr/include/bits/math-vector.h
@@ -95,8 +91,6 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/include/bits/mathcalls-macros.h
  /usr/include/bits/mathcalls-narrow.h
  /usr/include/bits/mathcalls.h
- /usr/include/bits/posix1_lim.h
- /usr/include/bits/posix2_lim.h
  /usr/include/bits/pthread_stack_min-dynamic.h
  /usr/include/bits/pthreadtypes-arch.h
  /usr/include/bits/pthreadtypes.h
@@ -142,13 +136,11 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/include/bits/types/wint_t.h
  /usr/include/bits/typesizes.h
  /usr/include/bits/uintn-identity.h
- /usr/include/bits/uio_lim.h
  /usr/include/bits/waitflags.h
  /usr/include/bits/waitstatus.h
  /usr/include/bits/wchar.h
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
- /usr/include/bits/xopen_lim.h
  /usr/include/c++/16/array
  /usr/include/c++/16/backward/auto_ptr.h
  /usr/include/c++/16/backward/binders.h
@@ -345,9 +337,7 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
  /usr/include/libintl.h
- /usr/include/limits.h
  /usr/include/linux/errno.h
- /usr/include/linux/limits.h
  /usr/include/linux/posix_types.h
  /usr/include/linux/sched/types.h
  /usr/include/linux/stddef.h
@@ -438,7 +428,6 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h
@@ -466,7 +455,6 @@ CMakeFiles/SeeMusic.dir/Main.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h
@@ -489,57 +477,91 @@ CMakeFiles/SeeMusic.dir/backend/Player.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/backend/Player.cpp
  /home/gunch/Documents/GitHub/SeeMusic/include/nlohmann/json.hpp
  /home/gunch/Documents/GitHub/SeeMusic/backend/Player.hpp
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/avcodec.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_desc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_id.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_par.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/defs.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/packet.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/version_major.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/avformat.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/avio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/version_major.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/attributes.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/avconfig.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/avutil.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/buffer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/channel_layout.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/common.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/dict.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/frame.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/hwcontext.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/intfloat.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/macros.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/mathematics.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/mem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/pixfmt.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/rational.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/samplefmt.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/swresample.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/version_major.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -877,42 +899,7 @@ CMakeFiles/SeeMusic.dir/backend/Player.cpp.o
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
- /usr/include/libavcodec/avcodec.h
- /usr/include/libavcodec/codec.h
- /usr/include/libavcodec/codec_desc.h
- /usr/include/libavcodec/codec_id.h
- /usr/include/libavcodec/codec_par.h
- /usr/include/libavcodec/defs.h
- /usr/include/libavcodec/packet.h
- /usr/include/libavcodec/version.h
- /usr/include/libavcodec/version_major.h
- /usr/include/libavformat/avformat.h
- /usr/include/libavformat/avio.h
- /usr/include/libavformat/version.h
- /usr/include/libavformat/version_major.h
- /usr/include/libavutil/attributes.h
- /usr/include/libavutil/avconfig.h
- /usr/include/libavutil/avutil.h
- /usr/include/libavutil/buffer.h
- /usr/include/libavutil/channel_layout.h
- /usr/include/libavutil/common.h
- /usr/include/libavutil/dict.h
- /usr/include/libavutil/error.h
- /usr/include/libavutil/frame.h
- /usr/include/libavutil/hwcontext.h
- /usr/include/libavutil/intfloat.h
- /usr/include/libavutil/log.h
- /usr/include/libavutil/macros.h
- /usr/include/libavutil/mathematics.h
- /usr/include/libavutil/mem.h
- /usr/include/libavutil/pixfmt.h
- /usr/include/libavutil/rational.h
- /usr/include/libavutil/samplefmt.h
- /usr/include/libavutil/version.h
  /usr/include/libintl.h
- /usr/include/libswresample/swresample.h
- /usr/include/libswresample/version.h
- /usr/include/libswresample/version_major.h
  /usr/include/limits.h
  /usr/include/linux/errno.h
  /usr/include/linux/limits.h
@@ -1411,57 +1398,91 @@ CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/include/nlohmann/json.hpp
  /home/gunch/Documents/GitHub/SeeMusic/backend/Player.hpp
  /home/gunch/Documents/GitHub/SeeMusic/backend/Songs.hpp
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/avcodec.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_desc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_id.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/codec_par.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/defs.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/packet.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavcodec/version_major.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/avformat.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/avio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavformat/version_major.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/attributes.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/avconfig.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/avutil.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/buffer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/channel_layout.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/common.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/dict.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/frame.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/hwcontext.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/intfloat.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/macros.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/mathematics.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/mem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/pixfmt.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/rational.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/samplefmt.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libavutil/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/swresample.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/libswresample/version_major.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -1791,42 +1812,7 @@ CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
- /usr/include/libavcodec/avcodec.h
- /usr/include/libavcodec/codec.h
- /usr/include/libavcodec/codec_desc.h
- /usr/include/libavcodec/codec_id.h
- /usr/include/libavcodec/codec_par.h
- /usr/include/libavcodec/defs.h
- /usr/include/libavcodec/packet.h
- /usr/include/libavcodec/version.h
- /usr/include/libavcodec/version_major.h
- /usr/include/libavformat/avformat.h
- /usr/include/libavformat/avio.h
- /usr/include/libavformat/version.h
- /usr/include/libavformat/version_major.h
- /usr/include/libavutil/attributes.h
- /usr/include/libavutil/avconfig.h
- /usr/include/libavutil/avutil.h
- /usr/include/libavutil/buffer.h
- /usr/include/libavutil/channel_layout.h
- /usr/include/libavutil/common.h
- /usr/include/libavutil/dict.h
- /usr/include/libavutil/error.h
- /usr/include/libavutil/frame.h
- /usr/include/libavutil/hwcontext.h
- /usr/include/libavutil/intfloat.h
- /usr/include/libavutil/log.h
- /usr/include/libavutil/macros.h
- /usr/include/libavutil/mathematics.h
- /usr/include/libavutil/mem.h
- /usr/include/libavutil/pixfmt.h
- /usr/include/libavutil/rational.h
- /usr/include/libavutil/samplefmt.h
- /usr/include/libavutil/version.h
  /usr/include/libintl.h
- /usr/include/libswresample/swresample.h
- /usr/include/libswresample/version.h
- /usr/include/libswresample/version_major.h
  /usr/include/limits.h
  /usr/include/linux/errno.h
  /usr/include/linux/limits.h
@@ -1971,63 +1957,60 @@ CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o
 
 CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/frontend/FrontEndMain.cpp
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/GL/glew.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_opengl.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
  /home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.hpp
  /home/gunch/Documents/GitHub/SeeMusic/frontend/SeeMusicMain.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glew.h
- /usr/include/GL/glu.h
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_opengl.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -2054,7 +2037,6 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
  /usr/include/bits/libm-simd-decl-stubs.h
- /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
  /usr/include/bits/math-vector.h
@@ -2062,8 +2044,6 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/include/bits/mathcalls-macros.h
  /usr/include/bits/mathcalls-narrow.h
  /usr/include/bits/mathcalls.h
- /usr/include/bits/posix1_lim.h
- /usr/include/bits/posix2_lim.h
  /usr/include/bits/pthread_stack_min-dynamic.h
  /usr/include/bits/pthreadtypes-arch.h
  /usr/include/bits/pthreadtypes.h
@@ -2109,13 +2089,11 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/include/bits/types/wint_t.h
  /usr/include/bits/typesizes.h
  /usr/include/bits/uintn-identity.h
- /usr/include/bits/uio_lim.h
  /usr/include/bits/waitflags.h
  /usr/include/bits/waitstatus.h
  /usr/include/bits/wchar.h
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
- /usr/include/bits/xopen_lim.h
  /usr/include/c++/16/array
  /usr/include/c++/16/backward/auto_ptr.h
  /usr/include/c++/16/backward/binders.h
@@ -2312,9 +2290,7 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
  /usr/include/libintl.h
- /usr/include/limits.h
  /usr/include/linux/errno.h
- /usr/include/linux/limits.h
  /usr/include/linux/posix_types.h
  /usr/include/linux/sched/types.h
  /usr/include/linux/stddef.h
@@ -2405,7 +2381,6 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h
@@ -2433,7 +2408,6 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h
@@ -2454,62 +2428,59 @@ CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
 
 CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.cpp
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/GL/glew.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_opengl.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
  /home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glew.h
- /usr/include/GL/glu.h
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_opengl.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -2536,7 +2507,6 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
  /usr/include/bits/libm-simd-decl-stubs.h
- /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
  /usr/include/bits/math-vector.h
@@ -2544,8 +2514,6 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/include/bits/mathcalls-macros.h
  /usr/include/bits/mathcalls-narrow.h
  /usr/include/bits/mathcalls.h
- /usr/include/bits/posix1_lim.h
- /usr/include/bits/posix2_lim.h
  /usr/include/bits/pthread_stack_min-dynamic.h
  /usr/include/bits/pthreadtypes-arch.h
  /usr/include/bits/pthreadtypes.h
@@ -2591,13 +2559,11 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/include/bits/types/wint_t.h
  /usr/include/bits/typesizes.h
  /usr/include/bits/uintn-identity.h
- /usr/include/bits/uio_lim.h
  /usr/include/bits/waitflags.h
  /usr/include/bits/waitstatus.h
  /usr/include/bits/wchar.h
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
- /usr/include/bits/xopen_lim.h
  /usr/include/c++/16/backward/binders.h
  /usr/include/c++/16/bit
  /usr/include/c++/16/bits/alloc_traits.h
@@ -2744,9 +2710,7 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/include/gnu/stubs-64.h
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
- /usr/include/limits.h
  /usr/include/linux/errno.h
- /usr/include/linux/limits.h
  /usr/include/linux/posix_types.h
  /usr/include/linux/sched/types.h
  /usr/include/linux/stddef.h
@@ -2837,7 +2801,6 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h
@@ -2865,7 +2828,6 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h
@@ -2886,66 +2848,63 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
 
 CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/frontend/SeeMusicMain.cpp
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/GL/glew.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_assert.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_atomic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_audio.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_blendmode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_clipboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_config.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_cpuinfo.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_endian.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_error.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_events.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_filesystem.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gamecontroller.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_gesture.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_guid.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_haptic.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hidapi.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_hints.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_joystick.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keyboard.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_keycode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_loadso.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_locale.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_log.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_main.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_messagebox.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_metal.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_misc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mouse.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_mutex.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_opengl.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_pixels.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_platform.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_power.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_quit.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rect.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_render.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_rwops.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_scancode.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_sensor.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_shape.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_stdinc.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_surface.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_system.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_thread.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_timer.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_touch.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_version.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/SDL_video.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/begin_code.h
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/include/SDL2/close_code.h
  /home/gunch/Documents/GitHub/SeeMusic/include/nlohmann/json.hpp
  /home/gunch/Documents/GitHub/SeeMusic/backend/Player.hpp
  /home/gunch/Documents/GitHub/SeeMusic/backend/Songs.hpp
  /home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.hpp
  /home/gunch/Documents/GitHub/SeeMusic/frontend/SeeMusicMain.hpp
- /usr/include/GL/gl.h
- /usr/include/GL/glew.h
- /usr/include/GL/glu.h
- /usr/include/SDL2/SDL.h
- /usr/include/SDL2/SDL_assert.h
- /usr/include/SDL2/SDL_atomic.h
- /usr/include/SDL2/SDL_audio.h
- /usr/include/SDL2/SDL_blendmode.h
- /usr/include/SDL2/SDL_clipboard.h
- /usr/include/SDL2/SDL_config.h
- /usr/include/SDL2/SDL_config_unix.h
- /usr/include/SDL2/SDL_cpuinfo.h
- /usr/include/SDL2/SDL_endian.h
- /usr/include/SDL2/SDL_error.h
- /usr/include/SDL2/SDL_events.h
- /usr/include/SDL2/SDL_filesystem.h
- /usr/include/SDL2/SDL_gamecontroller.h
- /usr/include/SDL2/SDL_gesture.h
- /usr/include/SDL2/SDL_guid.h
- /usr/include/SDL2/SDL_haptic.h
- /usr/include/SDL2/SDL_hidapi.h
- /usr/include/SDL2/SDL_hints.h
- /usr/include/SDL2/SDL_joystick.h
- /usr/include/SDL2/SDL_keyboard.h
- /usr/include/SDL2/SDL_keycode.h
- /usr/include/SDL2/SDL_loadso.h
- /usr/include/SDL2/SDL_locale.h
- /usr/include/SDL2/SDL_log.h
- /usr/include/SDL2/SDL_main.h
- /usr/include/SDL2/SDL_messagebox.h
- /usr/include/SDL2/SDL_metal.h
- /usr/include/SDL2/SDL_misc.h
- /usr/include/SDL2/SDL_mouse.h
- /usr/include/SDL2/SDL_mutex.h
- /usr/include/SDL2/SDL_opengl.h
- /usr/include/SDL2/SDL_pixels.h
- /usr/include/SDL2/SDL_platform.h
- /usr/include/SDL2/SDL_power.h
- /usr/include/SDL2/SDL_quit.h
- /usr/include/SDL2/SDL_rect.h
- /usr/include/SDL2/SDL_render.h
- /usr/include/SDL2/SDL_rwops.h
- /usr/include/SDL2/SDL_scancode.h
- /usr/include/SDL2/SDL_sensor.h
- /usr/include/SDL2/SDL_shape.h
- /usr/include/SDL2/SDL_stdinc.h
- /usr/include/SDL2/SDL_surface.h
- /usr/include/SDL2/SDL_system.h
- /usr/include/SDL2/SDL_thread.h
- /usr/include/SDL2/SDL_timer.h
- /usr/include/SDL2/SDL_touch.h
- /usr/include/SDL2/SDL_version.h
- /usr/include/SDL2/SDL_video.h
- /usr/include/SDL2/begin_code.h
- /usr/include/SDL2/close_code.h
  /usr/include/alloca.h
  /usr/include/asm-generic/bitsperlong.h
  /usr/include/asm-generic/errno-base.h
@@ -2973,7 +2932,6 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/include/bits/iscanonical.h
  /usr/include/bits/libc-header-start.h
  /usr/include/bits/libm-simd-decl-stubs.h
- /usr/include/bits/local_lim.h
  /usr/include/bits/locale.h
  /usr/include/bits/long-double.h
  /usr/include/bits/math-vector.h
@@ -2981,8 +2939,6 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/include/bits/mathcalls-macros.h
  /usr/include/bits/mathcalls-narrow.h
  /usr/include/bits/mathcalls.h
- /usr/include/bits/posix1_lim.h
- /usr/include/bits/posix2_lim.h
  /usr/include/bits/pthread_stack_min-dynamic.h
  /usr/include/bits/pthreadtypes-arch.h
  /usr/include/bits/pthreadtypes.h
@@ -3028,13 +2984,11 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/include/bits/types/wint_t.h
  /usr/include/bits/typesizes.h
  /usr/include/bits/uintn-identity.h
- /usr/include/bits/uio_lim.h
  /usr/include/bits/waitflags.h
  /usr/include/bits/waitstatus.h
  /usr/include/bits/wchar.h
  /usr/include/bits/wctype-wchar.h
  /usr/include/bits/wordsize.h
- /usr/include/bits/xopen_lim.h
  /usr/include/c++/16/algorithm
  /usr/include/c++/16/any
  /usr/include/c++/16/array
@@ -3280,9 +3234,7 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/include/gnu/stubs.h
  /usr/include/inttypes.h
  /usr/include/libintl.h
- /usr/include/limits.h
  /usr/include/linux/errno.h
- /usr/include/linux/limits.h
  /usr/include/linux/posix_types.h
  /usr/include/linux/sched/types.h
  /usr/include/linux/stddef.h
@@ -3373,7 +3325,6 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h
@@ -3401,7 +3352,6 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h
- /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h
@@ -3440,19 +3390,19 @@ SeeMusic
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so
  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so
  /usr/lib/ld-linux-x86-64.so.2
- /usr/lib/libGL.so.1
- /usr/lib/libGLEW.so
  /usr/lib/libGLX.so
  /usr/lib/libGLdispatch.so.0
+ /usr/lib/libICE.so
  /usr/lib/libOpenCL.so.1
  /usr/lib/libOpenGL.so
  /usr/lib/libSDL2-2.0.so.0.3200.74
+ /usr/lib/libSM.so
  /usr/lib/libSvtAv1Enc.so.4
  /usr/lib/libX11-xcb.so.1
- /usr/lib/libX11.so.6
+ /usr/lib/libX11.so
  /usr/lib/libXau.so.6
  /usr/lib/libXdmcp.so.6
- /usr/lib/libXext.so.6
+ /usr/lib/libXext.so
  /usr/lib/libXfixes.so.3
  /usr/lib/libXrender.so.1
  /usr/lib/libaom.so.3
@@ -3558,13 +3508,10 @@ SeeMusic
  /usr/lib/libz.so.1
  /usr/lib/libzmq.so.5
  /usr/lib/libzstd.so.1
- /usr/lib32/libGL.so.1
  /usr/lib32/libGLdispatch.so.0
  /usr/lib32/libX11-xcb.so.1
- /usr/lib32/libX11.so.6
  /usr/lib32/libXau.so.6
  /usr/lib32/libXdmcp.so.6
- /usr/lib32/libXext.so.6
  /usr/lib32/libXfixes.so.3
  /usr/lib32/libblkid.so.1
  /usr/lib32/libbrotlicommon.so.1
@@ -3615,4 +3562,5 @@ SeeMusic
  /home/gunch/Documents/GitHub/SeeMusic/build/CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/build/CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
  /home/gunch/Documents/GitHub/SeeMusic/build/CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
+ /home/gunch/Documents/GitHub/SeeMusic/build/vcpkg_installed/x64-linux/debug/lib/libGLEWd.a
 

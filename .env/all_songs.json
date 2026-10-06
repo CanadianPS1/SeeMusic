@@ -1,4 +1,14 @@
 {
+    "00002eb7-1b50-40b8-a76c-6666cf7d291b": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 212.893,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/16 Helpless.wma",
+        "title": "Helpless",
+        "track": 16
+    },
     "000a11ef-ef97-4dff-98fc-e7a4f0c11be6": {
         "album": "Blood Sugar Sex Magik",
         "album_artist": "Red Hot Chili Peppers",
@@ -18,6 +28,17 @@
         "genre": "Alternative",
         "path": "/home/gunch/Music/Sublime/Until The Sun Explodes/16 Come Correct.m4a",
         "title": "Come Correct",
+        "track": 16
+    },
+    "00643a85-ca94-4726-85e0-59365107e7a6": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Kit Walters",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 130.12462585034015,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/16 A Soul Can't Be Cut (Platinum Mix.m4a",
+        "title": "A Soul Can't Be Cut (Platinum Mix - Low Key Version)",
         "track": 16
     },
     "0075271a-27e8-4abc-a625-7ad93f82a6a5": {
@@ -93,6 +114,16 @@
         "title": "Evil Men",
         "track": 9
     },
+    "02186b98-69e9-4758-919d-19c7279a35a9": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 227.333,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/03 Better Than Silver & Gold.wma",
+        "title": "Better Than Silver & Gold",
+        "track": 3
+    },
     "02c7439c-72bd-42f3-8307-3db4ac1f4ca8": {
         "album": "Stadium Arcadium Disc 1",
         "album_artist": "Red Hot Chili Peppers",
@@ -156,15 +187,16 @@
         "title": "In the Blood",
         "track": 5
     },
-    "051ecab8-620d-4eca-a1c4-addfdfd0820b": {
-        "album": "Maniac Agenda Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 158.76,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Maniac Agenda Mix/Collective Consciousness.m4a",
-        "title": "Jamie Christopherson,0;Logan Mader - Collective Consciousness (Maniac Agenda Mix)",
-        "track": 5
+    "04e3ec44-4116-4689-b412-4b9cef852f5b": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jimmy Gnecco",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 175.56607709750568,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/27 It Has To Be This Way (Platinum M.m4a",
+        "title": "It Has To Be This Way (Platinum Mix - Instrumental)",
+        "track": 27
     },
     "056b3242-bed8-4257-ae6b-3487ed971df8": {
         "album": "Dangerous",
@@ -271,6 +303,16 @@
         "title": "Pool Shark",
         "track": 14
     },
+    "079c1b09-3461-48b6-a293-f6f4da23449e": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 341.493,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/06 Sugar Mountain.wma",
+        "title": "Sugar Mountain",
+        "track": 6
+    },
     "07eadd5a-be16-433f-adf3-fc8ba4d8aea2": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
         "album_artist": "Various Artists",
@@ -314,6 +356,16 @@
         "title": "Remember the Time",
         "track": 12
     },
+    "094d89a0-209b-4540-8d74-ff70e2cedd26": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 529.293,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/07 Goin' Home.wma",
+        "title": "Goin' Home",
+        "track": 7
+    },
     "0987ecfe-282a-4401-a30f-df3d694ae288": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -334,6 +386,26 @@
         "path": "/home/gunch/Music/John Mayer/The Search for Everything/08 Moving On and Getting Over.m4a",
         "title": "Moving On and Getting Over",
         "track": 8
+    },
+    "0b19dcb0-dd39-4877-8372-322b65df8e4e": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 188.092,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/13 Winterlong.wma",
+        "title": "Winterlong",
+        "track": 13
+    },
+    "0b235496-acb0-4ce5-b2ee-154e5f7d44a3": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 310.799,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/06 Downtown.wma",
+        "title": "Downtown",
+        "track": 6
     },
     "0b41613b-618e-49ca-8730-4ccddf898dca": {
         "album": "Greatest",
@@ -429,6 +501,27 @@
         "title": "Empty House",
         "track": 10
     },
+    "0cee34b0-1ff1-40ce-93cf-6a26920200d8": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 264.932,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/02 From Hank to Hendrix.wma",
+        "title": "From Hank to Hendrix",
+        "track": 2
+    },
+    "0d2c04eb-f0ed-4062-a9f0-e5317f316fa3": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jason Miller",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 150.44208616780045,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/17 Rules of Nature (Platinum Mix - I.m4a",
+        "title": "Rules of Nature (Platinum Mix - Instrumental)",
+        "track": 17
+    },
     "0d3b678a-95b1-4cf1-8716-c345ef338ea3": {
         "album": "Asia",
         "album_artist": "Asia",
@@ -461,6 +554,16 @@
         "path": "/home/gunch/Music/Bob Marley & The Wailers/Catch A Fire (Remastered 2013)/10 High Tide Or Low Tide (Jamaican V.m4a",
         "title": "High Tide Or Low Tide (Jamaican Version)",
         "track": 10
+    },
+    "0e709617-c863-4390-a495-de76ed308d29": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 229.999,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/08 The Loner.wma",
+        "title": "The Loner",
+        "track": 8
     },
     "0ec03dce-5937-4261-b9c4-c19485512752": {
         "album": "Paradise Valley",
@@ -505,6 +608,16 @@
         "path": "/home/gunch/Music/John Mayer/Born and Raised/11 A Face to Call Home.m4a",
         "title": "A Face to Call Home",
         "track": 11
+    },
+    "0fc968bc-e89a-46bc-b2fe-a0f8b9fc733e": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 391.159,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/09 Razor Love.wma",
+        "title": "Razor Love",
+        "track": 9
     },
     "0fd9553a-7bbf-4e30-a1e9-8e39cfbcf0ef": {
         "album": "Contraband: The Best of Men at Work",
@@ -560,6 +673,17 @@
         "title": "Let's Hurt Tonight",
         "track": 1
     },
+    "113f419d-48d7-48f4-ae09-b17689339776": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jimmy Gnecco",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 158.82448979591837,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/26 Collective Consciousness (Maniac.m4a",
+        "title": "Collective Consciousness (Maniac Agenda Mix - Instrumental)",
+        "track": 26
+    },
     "11c151d0-d976-4be2-b614-a636feb49fd6": {
         "album": "The Search for Everything",
         "album_artist": "John Mayer",
@@ -582,6 +706,16 @@
         "title": "Patience",
         "track": 4
     },
+    "12306623-abbe-4979-ada1-5667de3d94a3": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 191.493,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/02 Harvest.wma",
+        "title": "Harvest",
+        "track": 2
+    },
     "12a53ac7-65d2-4b66-b4c8-518ea283cb8a": {
         "album": "Fly",
         "album_artist": "Dixie Chicks",
@@ -591,6 +725,16 @@
         "path": "/home/gunch/Music/Dixie Chicks/Fly/14 Let Him Fly.wma",
         "title": "Let Him Fly",
         "track": 14
+    },
+    "1307f4b8-cad0-4d58-856e-0b0e024f0a05": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 284.306,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/06 Like a Hurricane.wma",
+        "title": "Like a Hurricane",
+        "track": 6
     },
     "130c48bf-229c-4431-8441-ddfef24224cb": {
         "album": "0",
@@ -603,6 +747,16 @@
         "title": "In the Morning",
         "track": 8
     },
+    "135189c9-bbb3-4182-9580-f01a51c120e5": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 375.89300000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/10 Two Old Friends.wma",
+        "title": "Two Old Friends",
+        "track": 10
+    },
     "13b97407-ee51-4351-a172-a51b1b062ecd": {
         "album": "Uprising",
         "album_artist": "Bob Marley & The Wailers",
@@ -613,6 +767,26 @@
         "path": "/home/gunch/Music/Bob Marley & The Wailers/Uprising/05 Work.m4a",
         "title": "Work",
         "track": 5
+    },
+    "13cb9d68-6268-4dd5-859f-118f783b90a6": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 221.639,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/14 Deep Forbidden Lake.wma",
+        "title": "Deep Forbidden Lake",
+        "track": 14
+    },
+    "141376b2-aafa-4283-a31c-10b488449cbc": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 329.693,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/15 Southern Man.wma",
+        "title": "Southern Man",
+        "track": 15
     },
     "141602ff-5980-412b-85b0-2bd7fe610496": {
         "album": "XSCAPE (Deluxe)",
@@ -625,15 +799,15 @@
         "title": "Do You Know Where Your Children Are",
         "track": 6
     },
-    "14504236-c2b3-4329-bee6-68b9ca2f900f": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 135.69299319727892,
+    "14b1d9ef-cddc-43f2-80b4-805244a1e0df": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 297.839,
         "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/Return to Ashes.m4a",
-        "title": "Jamie Christopherson - Return to Ashes (Platinum Mix)",
-        "track": 7
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/06 One of These Days.wma",
+        "title": "One of These Days",
+        "track": 6
     },
     "14d9db66-72a1-4362-a548-0c75b2a5becb": {
         "album": "Automatic for the People",
@@ -655,6 +829,16 @@
         "path": "/home/gunch/Music/Compilations/HIStory - PAST, PRESENT AND FUTURE - BOO/1-13 Don't Stop 'Til You Get Enough.m4a",
         "title": "Don't Stop 'Til You Get Enough",
         "track": 13
+    },
+    "154f3e02-c57e-4704-9fa8-500afa4a4c92": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 46.106,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/07 What Happened Yesterday.wma",
+        "title": "What Happened Yesterday",
+        "track": 7
     },
     "15835a87-b6fa-474a-9e42-0d9140af0cda": {
         "album": "Blood Sugar Sex Magik",
@@ -762,6 +946,16 @@
         "title": "In the Air Tonight",
         "track": 1
     },
+    "17ac857b-ea23-44c5-be7a-cae8df9ecdae": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 135.506,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/02 Burned.wma",
+        "title": "Burned",
+        "track": 2
+    },
     "185cf522-973e-45de-bfeb-5af03b68169c": {
         "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "album_artist": "Michael Jackson",
@@ -772,6 +966,38 @@
         "path": "/home/gunch/Music/Compilations/HIStory - PAST, PRESENT AND FUTURE - BOO/1-10 Beat It.m4a",
         "title": "Beat It",
         "track": 10
+    },
+    "1869f9cc-edc0-494f-b3b1-ff505657238d": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jimmy Gnecco",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 158.82448979591837,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/10 Collective Consciousness (Maniac.m4a",
+        "title": "Collective Consciousness (Maniac Agenda Mix)",
+        "track": 10
+    },
+    "189872c8-7b77-46a5-ac8e-c735baab919c": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Free Dominguez",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 145.7516553287982,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/21 A Stranger I Remain (Maniac Agend.m4a",
+        "title": "A Stranger I Remain (Maniac Agenda Mix - Instrumental)",
+        "track": 21
+    },
+    "18b06e04-bcf3-4919-912f-2325707b15cc": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 203.106,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/04 Buffalo Springfield Again.wma",
+        "title": "Buffalo Springfield Again",
+        "track": 4
     },
     "18bd1e27-6792-4133-9e61-e0505d067bec": {
         "album": "Flicker (Deluxe)",
@@ -816,6 +1042,16 @@
         "path": "/home/gunch/Music/Compilations/HIStory - PAST, PRESENT AND FUTURE - BOO/2-11 Tabloid Junkie.m4a",
         "title": "Tabloid Junkie",
         "track": 11
+    },
+    "1b834034-7639-4318-904f-a7dc7eacce83": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 342.466,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/09 Heart of Gold.wma",
+        "title": "Heart of Gold",
+        "track": 9
     },
     "1b8564e4-bdef-45de-a7d8-9714e4f25ce2": {
         "album": "Nevermind",
@@ -880,6 +1116,16 @@
         "title": "Fade Away",
         "track": 5
     },
+    "1bfa7afe-2da2-4580-8f57-d6e2d8590d50": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 314.866,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/01 The Old Laughing Lady.wma",
+        "title": "The Old Laughing Lady",
+        "track": 1
+    },
     "1c477438-0616-463e-96c8-4fb2c03b4e8c": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
         "album_artist": "Various Artists",
@@ -889,6 +1135,16 @@
         "path": "/home/gunch/Music/GuiltyGear/Necessary Discrepancy/15 What do you fight for (名残雪 テーマ).m4a",
         "title": "What do you fight for (名残雪 テーマ)",
         "track": 15
+    },
+    "1cfb4dc7-df89-4736-95a2-e8f68b91f9b1": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 228.359,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/19 Long May You Run.wma",
+        "title": "Long May You Run",
+        "track": 19
     },
     "1d04e2ca-da88-4194-ae3b-a4826eca091d": {
         "album": "Robbin' the Hood [Japan]",
@@ -910,6 +1166,16 @@
         "title": "Sweetness Follows",
         "track": 6
     },
+    "1e2a258a-3a7f-46f7-9a66-8cdbd8241ae5": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 213.8,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/04 You and Me.wma",
+        "title": "You and Me",
+        "track": 4
+    },
     "1e89337e-afc5-48f3-aaf2-91088b71a6bd": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -920,6 +1186,16 @@
         "title": "Hollywood",
         "track": 13
     },
+    "1ee3fc54-74db-44cc-9921-1c135a02f964": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 425.906,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/03 I'm the Ocean.wma",
+        "title": "I'm the Ocean",
+        "track": 3
+    },
     "1f095a38-067c-4cfc-bd5a-00dece2c799d": {
         "album": "Sheryl Crow",
         "album_artist": "Sheryl Crow",
@@ -929,6 +1205,34 @@
         "path": "/home/gunch/Music/Sheryl Crow/Sheryl Crow/07 Hard to Make a Stand.wma",
         "title": "Hard to Make a Stand",
         "track": 7
+    },
+    "1f9ce621-93f3-49e7-80d1-0978f492b1e6": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 293.746,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/05 Track 5.wma",
+        "title": "Soul of a Woman",
+        "track": 5
+    },
+    "2036824b-fe9c-48d6-b6d4-7d716aec25e6": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 202.173,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/03 Old Man.wma",
+        "title": "Old Man",
+        "track": 3
+    },
+    "2049e0c4-b1c1-4c1f-afcd-13972cbc0307": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 345.973,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/09 Throw Your Hatred Down.wma",
+        "title": "Throw Your Hatred Down",
+        "track": 9
     },
     "2098db92-7f8c-471e-b1da-9daecaa84b02": {
         "album": "Blood Sugar Sex Magik",
@@ -961,6 +1265,16 @@
         "title": "The Least You Can Do",
         "track": 10
     },
+    "2191ec08-762e-4cec-b11b-37a76c9ab33f": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 263.439,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/08 Harvest Moon.wma",
+        "title": "Harvest Moon",
+        "track": 8
+    },
     "21b1bdb8-e14f-4e70-bb16-70c1dc650da4": {
         "album": "The Singles (Deluxe Edition)",
         "album_artist": "Phil Collins",
@@ -981,6 +1295,16 @@
         "path": "/home/gunch/Music/Nirvana/Unplugged/14 Medley- About A Girl.wma",
         "title": "Medley: About A Girl",
         "track": 14
+    },
+    "22167325-a7cc-4601-a8dd-aae3796e9362": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 279.2,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/05 Truth Be Known.wma",
+        "title": "Truth Be Known",
+        "track": 5
     },
     "221a0dcc-b349-451d-84a5-36d162e652c9": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
@@ -1055,6 +1379,26 @@
         "title": "Wrong Way",
         "track": 1
     },
+    "2412a425-1c79-4674-a81e-f20094064baa": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 308.359,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/06 Are You Passionate-.wma",
+        "title": "Are You Passionate?",
+        "track": 6
+    },
+    "247d92d1-69d9-45cd-9c0b-bf89712f1ff4": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 294.573,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/07 Already One.wma",
+        "title": "Already One",
+        "track": 7
+    },
     "24da9b6b-b3a0-45d1-8688-881ca7389735": {
         "album": "VH1 Storytellers",
         "album_artist": "R.E.M.",
@@ -1124,6 +1468,16 @@
         "path": "/home/gunch/Music/Al Green/Greatest Hits/16 Bad Things.wma",
         "title": "Bad Things",
         "track": 16
+    },
+    "261c982e-866e-4c8c-b501-32ea867b9679": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 169.733,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/01 Good to See You.wma",
+        "title": "Good to See You",
+        "track": 1
     },
     "26526264-d0c3-461c-ac48-e0dc8ea07f81": {
         "album": "Robbin' the Hood [Japan]",
@@ -1324,6 +1678,16 @@
         "title": "We Believe",
         "track": 12
     },
+    "2a411341-3ab8-4cff-9554-679f93313d38": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 284.879,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/08 When I Hold You in My Arms.wma",
+        "title": "When I Hold You in My Arms",
+        "track": 8
+    },
     "2acea545-b3b8-4ebf-957a-ca6c641f66f6": {
         "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "album_artist": "Michael Jackson",
@@ -1441,6 +1805,16 @@
         "title": "Strangers Like Me",
         "track": 6
     },
+    "2e2cc4e9-a1c6-4828-9c3d-74b73b2259c4": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 245.32,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/10 Four Strong Winds.wma",
+        "title": "Four Strong Winds",
+        "track": 10
+    },
     "2e472b2a-8094-4f4d-8eab-07373f6fd861": {
         "album": "Robbin' the Hood [Japan]",
         "album_artist": "Sublime",
@@ -1481,6 +1855,16 @@
         "genre": "Alternative",
         "path": "/home/gunch/Music/R.E.M/Automatic for the People/09 Star Me Kitten.wma",
         "title": "Star Me Kitten",
+        "track": 9
+    },
+    "302443d3-6b61-4755-93a5-d0c1b166acdb": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 123.173,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/09 The Needle and the Damage Done [Live].wma",
+        "title": "The Needle and the Damage Done [Live]",
         "track": 9
     },
     "306b8879-68ba-4f08-be8c-b707182895a7": {
@@ -1535,16 +1919,6 @@
         "title": "Man on the Moon",
         "track": 10
     },
-    "31a433c1-e333-4a4d-b4ce-65fda687b303": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 300.7329931972789,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/The War Still Rages Within.m4a",
-        "title": "Jamie Christopherson,David Kelly,Pete Crossman - The War Still Rages Within",
-        "track": 6
-    },
     "31ed52a1-751c-48c6-a533-65ef88304d36": {
         "album": "Flicker (Deluxe)",
         "album_artist": "Niall Horan",
@@ -1586,6 +1960,16 @@
         "path": "/home/gunch/Music/Men at Work/Contraband- The Best of Men at Work/03 It's a Mistake.wma",
         "title": "It's a Mistake",
         "track": 3
+    },
+    "32f082e6-c00d-4e02-a05d-5e6521158bc9": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 337.89300000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/09 The Old Laughing Lady.wma",
+        "title": "The Old Laughing Lady",
+        "track": 9
     },
     "330dcde9-b93e-4951-ba9c-1e77cb66f723": {
         "album": "Until The Sun Explodes",
@@ -1649,6 +2033,16 @@
         "title": "Moonage Daydream",
         "track": 4
     },
+    "34bc8b12-ed72-4849-8290-adde338bcd49": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 281.826,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/01 Goin' Back.wma",
+        "title": "Goin' Back",
+        "track": 1
+    },
     "34fffb30-32c3-4b30-9c32-4d9904dd33ba": {
         "album": "Out of Time",
         "album_artist": "R.E.M.",
@@ -1669,6 +2063,26 @@
         "path": "/home/gunch/Music/Niall Horan/Flicker (Deluxe)/05 Too Much To Ask.m4a",
         "title": "Too Much To Ask",
         "track": 5
+    },
+    "356fc912-0cde-48b6-8b4a-fd86d9a26b8d": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 354.786,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/05 Let's Roll.wma",
+        "title": "Let's Roll",
+        "track": 5
+    },
+    "365c6745-a662-4e93-b16b-03e82b483ae3": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 163.466,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/07 Star of Bethlehem.wma",
+        "title": "Star of Bethlehem",
+        "track": 7
     },
     "36a4134f-3c99-46a6-8e0a-a80ee1bd864a": {
         "album": "Hero",
@@ -1746,6 +2160,16 @@
         "path": "/home/gunch/Music/Low Roar/Low Roar/03 Nobody Else.m4a",
         "title": "Nobody Else",
         "track": 3
+    },
+    "38a069e1-4d45-4f72-b0d2-cb1ee3a4a640": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 180.372,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/10 Cinnamon Girl.wma",
+        "title": "Cinnamon Girl",
+        "track": 10
     },
     "38bc05b8-245c-4ec4-b425-bc154bf68592": {
         "album": "Monster",
@@ -1870,16 +2294,6 @@
         "title": "Belle",
         "track": 15
     },
-    "3b3e7c64-040c-42d3-9710-6800357f5206": {
-        "album": "Maniac Agenda Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 130.1860090702948,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Maniac Agenda Mix/The Stains of Time.m4a",
-        "title": "Jamie Christopherson,Logan Mader - The Stains of Time (Maniac Agenda Mix)",
-        "track": 2
-    },
     "3b423d0a-aa0f-4064-a45f-c34addf3bfe3": {
         "album": "Dookie",
         "album_artist": "Green Day",
@@ -1921,6 +2335,16 @@
         "path": "/home/gunch/Music/Maren Morris/Hero/07 How It's Done.m4a",
         "title": "How It's Done",
         "track": 7
+    },
+    "3cda35cf-8c95-4a58-8f28-4523dbd13912": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 212.626,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/09 Be With You.wma",
+        "title": "Be With You",
+        "track": 9
     },
     "3cebbba6-670c-4561-bf57-4b4103ecac9c": {
         "album": "Future Past",
@@ -1964,6 +2388,16 @@
         "path": "/home/gunch/Music/Dazbee/Bitter Loss - Single/02 Bitter Loss (Instrumental).m4a",
         "title": "Bitter Loss (Instrumental)",
         "track": 2
+    },
+    "3e2aca93-93bf-4f79-8c02-9594cc22e67e": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 187.066,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/04 Heart of Gold.wma",
+        "title": "Heart of Gold",
+        "track": 4
     },
     "3edd1890-a2c2-483a-acb9-fd422324a441": {
         "album": "0",
@@ -2123,6 +2557,16 @@
         "title": "Someone New",
         "track": 4
     },
+    "41cee7fc-becb-48ce-8ff8-62a90c1b493a": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 207.84,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/13 I Believe in You.wma",
+        "title": "I Believe in You",
+        "track": 13
+    },
     "4254b1fd-71c0-4924-a332-8e464a896cd8": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -2132,6 +2576,16 @@
         "path": "/home/gunch/Music/Red Hot Chili Peppers/What Hits!-/09 Knock Me Down.wma",
         "title": "Knock Me Down",
         "track": 9
+    },
+    "42b0d224-0a3c-4638-8a70-6efaed68f403": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 190.026,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/06 Human Highway.wma",
+        "title": "Human Highway",
+        "track": 6
     },
     "43336b2a-6260-42da-a264-f12e70c1b55f": {
         "album": "The Singles (Deluxe Edition)",
@@ -2165,6 +2619,16 @@
         "title": "Alone Infection (ファウスト テーマ)",
         "track": 5
     },
+    "44efd01c-aca5-4f38-8141-dd1e72a5794f": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 277.732,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/07 Such a Woman.wma",
+        "title": "Such a Woman",
+        "track": 7
+    },
     "44f12860-8e21-4580-bf61-076480eb679f": {
         "album": "Automatic for the People",
         "album_artist": "R.E.M.",
@@ -2185,6 +2649,17 @@
         "title": "I Took Your Name",
         "track": 9
     },
+    "45586cf1-5d90-4c29-aee6-d0872096971c": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-10-15T12:00:00Z",
+        "duration": 60.070022675736965,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/05 ガーデン.m4a",
+        "title": "ガーデン",
+        "track": 5
+    },
     "45e12fca-de65-4b9b-8c75-8048827f94ee": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -2194,6 +2669,16 @@
         "path": "/home/gunch/Music/Red Hot Chili Peppers/What Hits!-/07 Fire.wma",
         "title": "Fire",
         "track": 7
+    },
+    "45ed50d7-5f6e-48be-b38f-6be9ea8ddf62": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 274.493,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/05 The Great Divide.wma",
+        "title": "The Great Divide",
+        "track": 5
     },
     "46293109-b051-4495-9fb9-4ed788a20d4b": {
         "album": "Slow Burn",
@@ -2215,6 +2700,16 @@
         "path": "/home/gunch/Music/Sublime/40 Oz. to Freedom/15 What Happened.wma",
         "title": "What Happened",
         "track": 15
+    },
+    "46b56cf4-d9f7-495b-8bf8-488456503193": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 240.266,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/06 Horseshoe Man.wma",
+        "title": "Horseshoe Man",
+        "track": 6
     },
     "46f686ba-f7ec-4c63-a48d-fa8e36b0a437": {
         "album": "The Singles (Deluxe Edition)",
@@ -2247,6 +2742,17 @@
         "path": "/home/gunch/Music/Michael Jackson/Dangerous/07 Heal the World.m4a",
         "title": "Heal the World",
         "track": 7
+    },
+    "47e3b767-bde8-435e-a724-d15f975fdea7": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jason Miller",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 133.72371882086168,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/24 Red Sun (Maniac Agenda Mix - Inst.m4a",
+        "title": "Red Sun (Maniac Agenda Mix - Instrumental)",
+        "track": 24
     },
     "47fddd4c-23f6-48fd-bc92-fe370acf6f6c": {
         "album": "Famous Men",
@@ -2343,6 +2849,16 @@
         "title": "Personal Hell",
         "track": 7
     },
+    "49fd572e-b1d4-4c5e-a153-0488ffc899d9": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 225.666,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/05 Expecting to Fly.wma",
+        "title": "Expecting to Fly",
+        "track": 5
+    },
     "4a3ff327-a7be-44d0-9a94-a51b74208b63": {
         "album": "Low Roar",
         "album_artist": "Low Roar",
@@ -2398,6 +2914,17 @@
         "title": "Snake Eater",
         "track": 3
     },
+    "4bd116d0-c646-4726-b43e-325486dfa42f": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "John Bush",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 134.76861678004536,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/15 Return to Ashes (Platinum Mix - L.m4a",
+        "title": "Return to Ashes (Platinum Mix - Low Key Version)",
+        "track": 15
+    },
     "4be80aa8-e86f-4092-ab4c-330d81b42804": {
         "album": "Slow Burn",
         "album_artist": "Magnolian",
@@ -2407,6 +2934,26 @@
         "genre": "Indie Rock",
         "path": "/home/gunch/Music/Magnolian/Slow Burn/08 Indigo.m4a",
         "title": "Indigo",
+        "track": 8
+    },
+    "4bf7f0ec-1f0e-4a59-9ca8-b52e71e61f3a": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 168.373,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/07 Red Sun.wma",
+        "title": "Red Sun",
+        "track": 7
+    },
+    "4c01f130-5c34-4907-9989-196149bcbd61": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 125.959,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/08 The Needle and the Damage Done.wma",
+        "title": "The Needle and the Damage Done",
         "track": 8
     },
     "4c1c45ed-8722-4cd1-bed2-7f77da2ca892": {
@@ -2419,6 +2966,28 @@
         "title": "Steady B Loop Dub",
         "track": 2
     },
+    "4c4d8a54-67fa-4148-b507-13b498d3ea6d": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-10-15T12:00:00Z",
+        "duration": 149.04888888888888,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/01 LoveXposer.m4a",
+        "title": "LoveXposer",
+        "track": 1
+    },
+    "4c6e79fe-c8b9-43cc-a6b4-c1998df990c1": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-10-15T12:00:00Z",
+        "duration": 197.06775510204082,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/03 才能.m4a",
+        "title": "才能",
+        "track": 3
+    },
     "4c7fceea-d653-4d52-9eec-44ea4ea9bc17": {
         "album": "Uprising",
         "album_artist": "Bob Marley & The Wailers",
@@ -2428,6 +2997,16 @@
         "genre": "Reggae",
         "path": "/home/gunch/Music/Bob Marley & The Wailers/Uprising/01 Coming In From The Cold.m4a",
         "title": "Coming In From The Cold",
+        "track": 1
+    },
+    "4d1ad035-add9-42f6-8420-d14a9c587a00": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 280.50600000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/01 Song X.wma",
+        "title": "Song X",
         "track": 1
     },
     "4d22201f-537e-4097-9b0d-4dbbdae4ba7f": {
@@ -2608,6 +3187,16 @@
         "title": "You're Gonna Live Forever in Me",
         "track": 12
     },
+    "50fcc992-e03e-4fce-b977-c4ea77721255": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 286.599,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/11 Unknown Legend.wma",
+        "title": "Unknown Legend",
+        "track": 11
+    },
     "5116c5c5-8312-40fa-9a2c-d8cdb7aec25b": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -2650,6 +3239,17 @@
         "path": "/home/gunch/Music/John Mayer/Paradise Valley/08 Wildfire (feat. Frank Ocean).m4a",
         "title": "Wildfire (feat. Frank Ocean)",
         "track": 8
+    },
+    "528a792c-896f-40b0-bb6b-7e522e131561": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 137.60145124716553,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/19 Dark Skies (Platinum Mix - Instru.m4a",
+        "title": "Dark Skies (Platinum Mix - Instrumental)",
+        "track": 19
     },
     "52d5a592-2e88-4acc-ac69-e7ca5d9f4ea0": {
         "album": "Stadium Arcadium Disc 2",
@@ -2751,6 +3351,16 @@
         "title": "CARPE DIEM",
         "track": 1
     },
+    "55de808f-3793-4c4a-b94c-f3b45ec6a48d": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 186.44,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/02 Comes a Time.wma",
+        "title": "Comes a Time",
+        "track": 2
+    },
     "56817df7-8d60-4915-9827-3c2c63d910d6": {
         "album": "Contraband: The Best of Men at Work",
         "album_artist": "Men at Work",
@@ -2771,6 +3381,16 @@
         "title": "Behind the Sun",
         "track": 3
     },
+    "56b6761e-e0d6-41b2-9c84-205fbc57f95e": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 216.199,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/10 Transformer Man.wma",
+        "title": "Transformer Man",
+        "track": 10
+    },
     "5742eabd-e2d4-4bdd-a042-91fdbb1b32e4": {
         "album": "XSCAPE (Deluxe)",
         "album_artist": "Michael Jackson",
@@ -2781,6 +3401,16 @@
         "path": "/home/gunch/Music/Michael Jackson/XSCAPE (Deluxe)/13 Slave to the Rhythm (Original Ver.m4a",
         "title": "Slave to the Rhythm (Original Version)",
         "track": 13
+    },
+    "576d0b26-a2dd-440d-bd9b-4589ec454b1c": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 326.68,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/02 Mr. Disappointment.wma",
+        "title": "Mr. Disappointment",
+        "track": 2
     },
     "579c44e7-e2f8-41b3-a99d-1fe1df0b145c": {
         "album": "maybe tomorrow...",
@@ -2802,6 +3432,17 @@
         "path": "/home/gunch/Music/GuiltyGear/Necessary Discrepancy/03 The Roar of the Spark (カイ=キスク テーマ).m4a",
         "title": "The Roar of the Spark (カイ=キスク テーマ)",
         "track": 3
+    },
+    "5809205e-a810-46a3-9ae0-754497538c26": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-09-23T12:00:00Z",
+        "duration": 203.08172335600906,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/04 Bitter Loss.m4a",
+        "title": "Bitter Loss",
+        "track": 4
     },
     "581b95c3-eeea-4089-8b9a-8e29517264f7": {
         "album": "XSCAPE (Deluxe)",
@@ -2856,6 +3497,14 @@
         "title": "Geese",
         "track": 10
     },
+    "59f079af-aab2-418f-b625-5b83e04f86ee": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 395.826,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/02 Track 2.wma",
+        "title": "Bound for Glory",
+        "track": 2
+    },
     "5a736962-4a83-4f47-83e1-4abd28b0e4b4": {
         "album": "Out of Time",
         "album_artist": "R.E.M.",
@@ -2875,6 +3524,27 @@
         "path": "/home/gunch/Music/Men at Work/Contraband- The Best of Men at Work/12 Dr. Heckyll & Mr. Jive.wma",
         "title": "Dr. Heckyll & Mr. Jive",
         "track": 12
+    },
+    "5acc3514-f27f-4cd8-a289-a353e5425750": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-10-15T12:00:00Z",
+        "duration": 196.0692970521542,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/08 Fade Into Starlight.m4a",
+        "title": "Fade Into Starlight",
+        "track": 8
+    },
+    "5b2ffa60-0464-4aae-a97a-a91cc39f531d": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 126.039,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/11 Natural Beauty.wma",
+        "title": "Natural Beauty",
+        "track": 11
     },
     "5b466eb1-c03f-40b6-90cb-7fd43ec4399d": {
         "album": "The Singles (Deluxe Edition)",
@@ -2993,6 +3663,17 @@
         "title": "We're Only Gonna Die for Our Own Arrogance",
         "track": 4
     },
+    "5e164838-aad3-403a-beab-20d8dd73ffa6": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Kit Walters",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 139.34294784580499,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/25 A Soul Can't Be Cut (Platinum Mix.m4a",
+        "title": "A Soul Can't Be Cut (Platinum Mix - Instrumental)",
+        "track": 25
+    },
     "5e21f02a-0c23-4f7d-937c-a56d853e075c": {
         "album": "Robbin' the Hood [Japan]",
         "album_artist": "Sublime",
@@ -3031,6 +3712,16 @@
         "path": "/home/gunch/Music/R.E.M/VH1 Storytellers/03.wma",
         "title": "At My Most Beautiful",
         "track": 3
+    },
+    "5f4d8523-8f3f-43ee-aabc-43d519803394": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 189.506,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/05 Harvest.wma",
+        "title": "Harvest",
+        "track": 5
     },
     "5f6bd143-f0ec-48da-8f87-ede0e58b3d75": {
         "album": "Uprising",
@@ -3085,6 +3776,17 @@
         "title": "13",
         "track": 12
     },
+    "60956acf-7f8f-447c-8c59-7e10242863f4": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Tyson Yen",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 146.40181405895692,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/18 The Only Thing I Know For Real (M.m4a",
+        "title": "The Only Thing I Know For Real (Maniac Agenda Mix - Instrumental)",
+        "track": 18
+    },
     "60af0998-9633-4d4a-adcc-16288f7c71e1": {
         "album": "Born and Raised",
         "album_artist": "John Mayer",
@@ -3106,6 +3808,16 @@
         "path": "/home/gunch/Music/Duran Duran/Future Past/03 GIVE IT ALL UP (feat. Tove Lo).m4a",
         "title": "GIVE IT ALL UP (feat. Tove Lo)",
         "track": 3
+    },
+    "60f4476e-bf39-4bad-9b85-fedac768ddab": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 258.373,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/01 Long May You Run.wma",
+        "title": "Long May You Run",
+        "track": 1
     },
     "60f8c87f-760f-454c-a2cc-9f628e958a3b": {
         "album": "Doo-Wops & Hooligans",
@@ -3287,6 +3999,16 @@
         "title": "Loving You",
         "track": 3
     },
+    "64a2fb24-fe99-4c3c-adb8-cd054c1b0d8c": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 172.092,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/07 The Needle and the Damage Done.wma",
+        "title": "The Needle and the Damage Done",
+        "track": 7
+    },
     "64da1fdb-0241-476a-a873-ad450099427b": {
         "album": "Low Roar",
         "album_artist": "Low Roar",
@@ -3340,6 +4062,16 @@
         "title": "Look What You Done To Me",
         "track": 9
     },
+    "65e79d75-020a-494c-af78-12314a371a38": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 177.0,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/08 Old King.wma",
+        "title": "Old King",
+        "track": 8
+    },
     "65f0f0d7-6252-4485-b5ea-22f3585ac87c": {
         "album": "The Singles (Deluxe Edition)",
         "album_artist": "Phil Collins",
@@ -3372,15 +4104,15 @@
         "title": "Man In the Mirror",
         "track": 8
     },
-    "6716a89b-588d-4079-a30f-03375b623982": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 138.8,
+    "671f8c62-1927-4e4a-bf7e-ad69f29164d3": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 451.839,
         "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/The Hot Wind Blowing.m4a",
-        "title": "Jamie Christopherson - The Hot Wind Blowing featuring Ferry Corsten (Platinum Mix)",
-        "track": 5
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/17 Cortez the Killer.wma",
+        "title": "Cortez the Killer",
+        "track": 17
     },
     "67240c26-302b-4600-8e10-3f61fafa9dbd": {
         "album": "The Singles (Deluxe Edition)",
@@ -3435,6 +4167,16 @@
         "title": "She Drives Me Wild",
         "track": 4
     },
+    "693ab382-3198-40af-a61a-2317ed71498b": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 210.493,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/18 Campaigner.wma",
+        "title": "Campaigner",
+        "track": 18
+    },
     "6958d6a0-4693-49ae-b2bd-f91b48902b28": {
         "album": "Monster",
         "album_artist": "R.E.M.",
@@ -3444,6 +4186,17 @@
         "path": "/home/gunch/Music/R.E.M/Monster/12 You.wma",
         "title": "You",
         "track": 12
+    },
+    "695a2b4b-3c5e-45bc-9f19-06d8c576abde": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "John Bush",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 135.58131519274377,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/22 Return to Ashes (Platinum Mix - I.m4a",
+        "title": "Return to Ashes (Platinum Mix - Instrumental)",
+        "track": 22
     },
     "69bd10b7-bd6c-49b7-b556-abe57bbca297": {
         "album": "40 Oz. to Freedom",
@@ -3465,6 +4218,26 @@
         "path": "/home/gunch/Music/Compilations/The Singles (Deluxe Edition)/3-12 Look Through My Eyes.m4a",
         "title": "Look Through My Eyes",
         "track": 12
+    },
+    "69f3477d-0a3c-4b78-9f4d-67e3b87dba0c": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 161.172,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/11 Walk On.wma",
+        "title": "Walk On",
+        "track": 11
+    },
+    "6a36e746-4845-4893-baa1-9a41c98dc333": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 343.89300000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/05 War of Man.wma",
+        "title": "War of Man",
+        "track": 5
     },
     "6a37aa93-012b-45c6-8088-6129bcc1d1f2": {
         "album": "VH1 Storytellers",
@@ -3495,6 +4268,16 @@
         "title": "The Disaster of Passion (メイ テーマ)",
         "track": 9
     },
+    "6b36a720-1cc9-4a74-b550-838de91ffea3": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 305.56,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/04 Pocahontas.wma",
+        "title": "Pocahontas",
+        "track": 4
+    },
     "6b4857e3-6c21-4066-a00a-fdf515fc4226": {
         "album": "DECIDE",
         "album_artist": "Djo",
@@ -3516,6 +4299,16 @@
         "path": "/home/gunch/Music/Michael Jackson/Invincible/16 Threatened.m4a",
         "title": "Threatened",
         "track": 16
+    },
+    "6b9f5bdf-6897-4c86-996d-5cf7d1805e27": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 305.306,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/04 Harvest Moon.wma",
+        "title": "Harvest Moon",
+        "track": 4
     },
     "6ba07f61-079e-41ea-84d1-96b5dbdb29ed": {
         "album": "House In The Woods",
@@ -3571,6 +4364,17 @@
         "title": "Smells Like Teen Spirit",
         "track": 1
     },
+    "6c2ee23f-31bc-4f25-b5ab-4f2fad780d38": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jason Miller",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 150.8368253968254,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/01 Rules of Nature (Platinum Mix).m4a",
+        "title": "Rules of Nature (Platinum Mix)",
+        "track": 1
+    },
     "6c4946be-5849-4f57-91ab-991cc8597890": {
         "album": "The Singles (Deluxe Edition)",
         "album_artist": "Phil Collins",
@@ -3592,6 +4396,17 @@
         "title": "Sir Psycho Sexy",
         "track": 16
     },
+    "6c761432-aff1-4778-9a0e-f42b5bece9eb": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 137.06739229024944,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/14 Dark Skies (Platinum Mix - Low Ke.m4a",
+        "title": "Dark Skies (Platinum Mix - Low Key Version)",
+        "track": 14
+    },
     "6ce7b809-0b07-42e4-919a-c90829c3b745": {
         "album": "Flicker (Deluxe)",
         "album_artist": "Niall Horan",
@@ -3602,6 +4417,16 @@
         "path": "/home/gunch/Music/Niall Horan/Flicker (Deluxe)/12 Mirrors.m4a",
         "title": "Mirrors",
         "track": 12
+    },
+    "6d1cb141-e481-4cad-88cb-e8175f2407ee": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 189.799,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/08 Field of Opportunity.wma",
+        "title": "Field of Opportunity",
+        "track": 8
     },
     "6d671e67-6237-4729-a2ff-510bab2ddee9": {
         "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
@@ -3773,6 +4598,16 @@
         "title": "Darkest Hour",
         "track": 1
     },
+    "7063a340-1071-405f-b77c-469b9a89d0c0": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 240.559,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/04 A Man Needs a Maid.wma",
+        "title": "A Man Needs a Maid",
+        "track": 4
+    },
     "7082472d-68fa-48e0-9e0b-3e3dac60800d": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
         "album_artist": "Various Artists",
@@ -3878,6 +4713,16 @@
         "title": "Exodus",
         "track": 5
     },
+    "72c9d8ba-ce71-45c3-bfc6-1d249d70a03c": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 148.933,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/01 Down to the Wire.wma",
+        "title": "Down to the Wire",
+        "track": 1
+    },
     "72d53633-f623-4838-8cbd-4c891d7fedf2": {
         "album": "40 Oz. to Freedom",
         "album_artist": "Sublime",
@@ -3887,6 +4732,16 @@
         "path": "/home/gunch/Music/Sublime/40 Oz. to Freedom/16 New Song.wma",
         "title": "New Song",
         "track": 16
+    },
+    "72dea6c9-f9fc-4f18-9225-698e2a57eb67": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 210.359,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/10 Dreamin' Man.wma",
+        "title": "Dreamin' Man",
+        "track": 10
     },
     "73744eca-bd72-4ffb-b363-762a09824407": {
         "album": "Dangerous",
@@ -3941,6 +4796,14 @@
         "title": "Rock and Roll, Rock Hard Maniac",
         "track": 11
     },
+    "757ad04b-da61-4e82-acde-58e404280e34": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 326.213,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/07 Track 7.wma",
+        "title": "Powderfinger",
+        "track": 7
+    },
     "757aeecb-d1c4-402d-852b-a99c7769bc87": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
         "album_artist": "Various Artists",
@@ -3980,6 +4843,17 @@
         "path": "/home/gunch/Music/Duran Duran/Duran Duran [The Wedding Album]/06 Come Undone.wma",
         "title": "Come Undone",
         "track": 6
+    },
+    "76937a16-210d-4401-b7b8-6012845d371b": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 130.6122448979592,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/20 I'm My Own Master Now (Platinum M.m4a",
+        "title": "I'm My Own Master Now (Platinum Mix - Instrumental)",
+        "track": 20
     },
     "76b71304-ba81-49f4-98f6-d9d92ef72abf": {
         "album": "The Singles (Deluxe Edition)",
@@ -4056,6 +4930,15 @@
         "path": "/home/gunch/Music/Low Roar/Once in a Long, Long While.._/11 Miserably.m4a",
         "title": "Miserably",
         "track": 11
+    },
+    "782d87e0-4e3a-4e44-9e18-5bb4eb27d2c4": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 245.812,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/01 Track 1.wma",
+        "title": "Hawks & Doves",
+        "track": 1
     },
     "78866048-f786-47ae-878c-bbf3ea57ff2c": {
         "album": "Born and Raised",
@@ -4196,6 +5079,16 @@
         "title": "Freeway Time in L.A. County Jail",
         "track": 13
     },
+    "7bb7b37e-335a-49b0-8d84-9dcc1d7526b7": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 247.466,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/08 Distant Camera.wma",
+        "title": "Distant Camera",
+        "track": 8
+    },
     "7be39f47-c364-49a3-8c48-ca7af91d9f6f": {
         "album": "Oh My My",
         "album_artist": "OneRepublic",
@@ -4238,6 +5131,16 @@
         "path": "/home/gunch/Music/Red Hot Chili Peppers/Stadium Arcadium Disc 2/02 Tell Me Baby.wma",
         "title": "Tell Me Baby",
         "track": 2
+    },
+    "7cf3e097-0d6c-4bb5-a128-0b82ed9f6437": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 225.56,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/03 You and Me.wma",
+        "title": "You and Me",
+        "track": 3
     },
     "7d350941-2db2-4123-a50d-f6ace1dc47b1": {
         "album": "Fly",
@@ -4291,6 +5194,17 @@
         "title": "漉祭 -Rock Parade- (御津闇慈 テーマ)",
         "track": 23
     },
+    "7eda057f-5fad-4431-a805-d0536366dbb6": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Kit Walters",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 139.38938775510204,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/09 A Soul Can't Be Cut (Platinum Mix.m4a",
+        "title": "A Soul Can't Be Cut (Platinum Mix)",
+        "track": 9
+    },
     "7f193aae-4389-491d-a0b9-2393d92e84e6": {
         "album": "Robbin' the Hood [Japan]",
         "album_artist": "Sublime",
@@ -4332,6 +5246,16 @@
         "title": "The Power of Equality",
         "track": 1
     },
+    "80c0ebd7-74ea-4db5-bd7b-34fa410eecf2": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 373.666,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/04 Broken Arrow.wma",
+        "title": "Broken Arrow",
+        "track": 4
+    },
     "80ca2fb3-ad54-4b11-b3ee-689852afe42e": {
         "album": "Dookie",
         "album_artist": "Green Day",
@@ -4361,6 +5285,14 @@
         "title": "If It Makes You Happy",
         "track": 5
     },
+    "8145d26c-2c38-49f5-a54b-e20515cb0242": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 570.173,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/11 Track 11.wma",
+        "title": "Like an Inca",
+        "track": 11
+    },
     "81d149c2-354a-4d35-b40e-13f6c7cbc4aa": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -4380,6 +5312,16 @@
         "path": "/home/gunch/Music/GuiltyGear/Necessary Discrepancy/08 Play the Hero (チップ=ザナフ テーマ).m4a",
         "title": "Play the Hero (チップ=ザナフ テーマ)",
         "track": 8
+    },
+    "82a37682-c190-4df9-910f-1153a42e4db5": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "The London Symphony Orchestra",
+        "duration": 245.53300000000002,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/03 A Man Needs a Maid.wma",
+        "title": "A Man Needs a Maid",
+        "track": 3
     },
     "83c01c23-fd17-4cba-bbbc-0d103e61b81d": {
         "album": "Invincible",
@@ -4443,6 +5385,27 @@
         "path": "/home/gunch/Music/Dixie Chicks/Fly/10 Some Days You Gotta Dance.wma",
         "title": "Some Days You Gotta Dance",
         "track": 10
+    },
+    "858d6b5b-8b82-49a5-b6af-16030909276a": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-09-23T07:00:00Z",
+        "duration": 164.04897959183674,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/02 やまない.m4a",
+        "title": "やまない",
+        "track": 2
+    },
+    "85ada079-0b55-40e7-8ff5-01978f9a40a2": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 74.986,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/11 Fallen Angel.wma",
+        "title": "Fallen Angel",
+        "track": 11
     },
     "85e4b895-cfa4-4ac0-92f2-295c0d799a7d": {
         "album": "Contraband: The Best of Men at Work",
@@ -4592,6 +5555,16 @@
         "title": "Privacy",
         "track": 11
     },
+    "89ec1391-a9ca-42f8-8727-71ba796dd2a3": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 422.226,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/08 Peace and Love.wma",
+        "title": "Peace and Love",
+        "track": 8
+    },
     "8af1922f-5ee1-4095-ba47-406b296b19e3": {
         "album": "Stadium Arcadium Disc 1",
         "album_artist": "Red Hot Chili Peppers",
@@ -4644,6 +5617,17 @@
         "title": "Easy Lover",
         "track": 11
     },
+    "8c6d1733-2d3e-41d2-b281-d7b8aaa71a6d": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 130.6122448979592,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/04 I'm My Own Master Now (Platinum M.m4a",
+        "title": "I'm My Own Master Now (Platinum Mix)",
+        "track": 4
+    },
     "8c9bb382-5ed8-453c-b212-b3d403f04bb4": {
         "album": "Invincible",
         "album_artist": "Michael Jackson",
@@ -4666,6 +5650,16 @@
         "title": "Half Asleep",
         "track": 5
     },
+    "8cc75154-28d6-4c9d-b2db-217a887acbab": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 276.826,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/09 Dreamin' Man.wma",
+        "title": "Dreamin' Man",
+        "track": 9
+    },
     "8d1d85a7-06d6-4806-b908-60bdc2896c7a": {
         "album": "XSCAPE (Deluxe)",
         "album_artist": "Michael Jackson",
@@ -4676,6 +5670,16 @@
         "path": "/home/gunch/Music/Michael Jackson/XSCAPE (Deluxe)/12 A Place with No Name (Original Ve.m4a",
         "title": "A Place with No Name (Original Version)",
         "track": 12
+    },
+    "8d399c52-c908-451d-b4f9-a8a48d0bc4c1": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 317.373,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/02 From Hank to Hendrix.wma",
+        "title": "From Hank to Hendrix",
+        "track": 2
     },
     "8dbf7120-0644-42f7-8b99-5f0a9cdc70eb": {
         "album": "Robbin' the Hood [Japan]",
@@ -4697,6 +5701,17 @@
         "path": "/home/gunch/Music/Low Roar/ross_/04 I'll Make You Feel.m4a",
         "title": "I'll Make You Feel",
         "track": 4
+    },
+    "8e871ef1-a715-47f3-80b7-fa3316e69f0b": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-10-15T12:00:00Z",
+        "duration": 159.05668934240364,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/07 bamu.m4a",
+        "title": "bamu",
+        "track": 7
     },
     "8ea9f947-bd11-47de-b283-f4a8abe5162b": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
@@ -4779,16 +5794,6 @@
         "path": "/home/gunch/Music/R.E.M/Automatic for the People/04 Everybody Hurts.wma",
         "title": "Everybody Hurts",
         "track": 4
-    },
-    "912a4b99-b7b8-42e5-a48a-526e9c6cf4c2": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 175.5060090702948,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/It Has To Be This Way.m4a",
-        "title": "Jamie Christopherson - It Has To Be This Way (Platinum Mix)",
-        "track": 8
     },
     "91978780-5c17-462f-939a-237f674191ea": {
         "album": "Until The Sun Explodes",
@@ -4915,6 +5920,16 @@
         "title": "Poznań",
         "track": 10
     },
+    "946c69e0-1118-4aec-bfcc-6363a26a246b": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 245.626,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/03 Look Out for My Love.wma",
+        "title": "Look Out for My Love",
+        "track": 3
+    },
     "947a0a5a-3041-4fbe-b6c6-6b98c1c6f522": {
         "album": "VH1 Storytellers",
         "album_artist": "R.E.M.",
@@ -4934,6 +5949,16 @@
         "path": "/home/gunch/Music/Maren Morris/Hero/03 My Church.m4a",
         "title": "My Church",
         "track": 3
+    },
+    "953f1092-051f-4da7-89df-403a122db85c": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 203.666,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/05 Are You Ready for the Country-.wma",
+        "title": "Are You Ready for the Country?",
+        "track": 5
     },
     "9547ee67-8002-4ed6-a22a-24edf1dc4d35": {
         "album": "I SWAY - EP",
@@ -4967,6 +5992,16 @@
         "title": "Slow Burn",
         "track": 7
     },
+    "968077a1-4b74-4898-b133-98db0f87b0e7": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 205.53300000000002,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/07 Such a Woman.wma",
+        "title": "Such a Woman",
+        "track": 7
+    },
     "96c63b10-3fcc-49fe-85df-89ef53a6545b": {
         "album": "What Hits!?",
         "album_artist": "Red Hot Chili Peppers",
@@ -4977,25 +6012,25 @@
         "title": "Get Up and Jump",
         "track": 8
     },
-    "972f9abc-1221-4aa5-8586-cdfb4d8d06e9": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 139.32,
+    "96dc6027-6fc8-439f-ba9e-8b3ec11b5522": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 158.106,
         "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/A Soul Can’t Be Cut.m4a",
-        "title": "Jamie Christopherson - A Soul Can’t Be Cut (Platinum Mix)",
-        "track": 3
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/04 Lotta Love.wma",
+        "title": "Lotta Love",
+        "track": 4
     },
-    "9767cfce-7ee2-4749-934c-5b604dd8b600": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 150.7860090702948,
+    "9735e827-a2ac-48cd-9986-de9185ff68ce": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 322.106,
         "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/Rules of Nature.m4a",
-        "title": "Jamie Christopherson - Rules of Nature (Platinum Mix)",
-        "track": 1
+        "path": "/home/gunch/Music/Neil Young/Unplugged/13 Long May You Run.wma",
+        "title": "Long May You Run",
+        "track": 13
     },
     "98baac08-2c93-4fd4-9164-dce69298519e": {
         "album": "Invincible",
@@ -5040,6 +6075,17 @@
         "path": "/home/gunch/Music/John Mayer/Paradise Valley/07 I Will Be Found (Lost At Sea).m4a",
         "title": "I Will Be Found (Lost At Sea)",
         "track": 7
+    },
+    "992800d7-7dbc-4788-a840-ac1febaf3b0f": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "John Bush",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 135.74385487528346,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/06 Return to Ashes (Platinum Mix).m4a",
+        "title": "Return to Ashes (Platinum Mix)",
+        "track": 6
     },
     "9a3b7932-5928-420f-a3c1-ecbdf32ffc65": {
         "album": "Until The Sun Explodes",
@@ -5104,6 +6150,16 @@
         "title": "You and Me",
         "track": 10
     },
+    "9b2cb3cd-6455-4d44-bf8a-62492ccf997d": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 178.466,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/01 Ohio.wma",
+        "title": "Ohio",
+        "track": 1
+    },
     "9b8a242c-c54d-4ddb-b728-19416c01bd71": {
         "album": "Stadium Arcadium Disc 2",
         "album_artist": "Red Hot Chili Peppers",
@@ -5114,6 +6170,16 @@
         "title": "21st Century",
         "track": 4
     },
+    "9beea3bf-fa69-4f77-9107-cc31a1bf7390": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 294.693,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/02 Act of Love.wma",
+        "title": "Act of Love",
+        "track": 2
+    },
     "9c11b045-9348-474d-802f-6ae4d6e8d951": {
         "album": "Robbin' the Hood [Japan]",
         "album_artist": "Sublime",
@@ -5123,6 +6189,16 @@
         "path": "/home/gunch/Music/Sublime/Robbin' the Hood [Japan]/23 Roots of Creation.wma",
         "title": "Roots of Creation",
         "track": 23
+    },
+    "9c51630a-1964-4139-85d1-810dd9a72f10": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 539.533,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/11 Down by the River.wma",
+        "title": "Down by the River",
+        "track": 11
     },
     "9c97b23b-4518-4c16-a496-c02d589df798": {
         "album": "Asia",
@@ -5221,6 +6297,26 @@
         "title": "Little District",
         "track": 9
     },
+    "9f5fdc58-0259-4640-b035-afa59737c00e": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 530.626,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/10 Scenery.wma",
+        "title": "Scenery",
+        "track": 10
+    },
+    "9f637a97-b728-4e75-997c-ef10f1d801c2": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 196.733,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/02 Silver & Gold.wma",
+        "title": "Silver & Gold",
+        "track": 2
+    },
     "9f971ece-aedc-4046-b5dc-337cf77fed5e": {
         "album": "Greatest Hits",
         "album_artist": "Al Green",
@@ -5242,16 +6338,6 @@
         "title": "Natural Mystic",
         "track": 1
     },
-    "a002f3d3-b041-4dc7-89c8-1f391fdcd85d": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 130.5460090702948,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/I’m My Own Master Now.m4a",
-        "title": "Jamie Christopherson - I’m My Own Master Now (Platinum Mix)",
-        "track": 2
-    },
     "a013eca5-f00c-49d1-bbaa-9a79b45c02dd": {
         "album": "Oh My My",
         "album_artist": "OneRepublic",
@@ -5262,6 +6348,16 @@
         "path": "/home/gunch/Music/OneRepublic/Oh My My/11 Heaven.m4a",
         "title": "Heaven",
         "track": 11
+    },
+    "a06a2828-428f-4538-88bb-fff3023cf7ab": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 418.733,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/06 Old King.wma",
+        "title": "Old King",
+        "track": 6
     },
     "a09c35ea-d7cb-4712-8f81-aebda84a8fc5": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
@@ -5294,6 +6390,16 @@
         "path": "/home/gunch/Music/PVRIS/F.I.L.T.H. - EP/04 THE BLOB.m4a",
         "title": "THE BLOB",
         "track": 4
+    },
+    "a0ee0249-6b56-41a6-ab0c-05238b96380d": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 148.933,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/02 Soldier.wma",
+        "title": "Soldier",
+        "track": 2
     },
     "a0ef01ae-976e-4073-bfbd-0d02b7b59d08": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
@@ -5376,6 +6482,16 @@
         "title": "Hole in My Head",
         "track": 11
     },
+    "a1a70e6b-13ca-483a-a967-40d4374d9b59": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 234.172,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/02 Mr. Soul.wma",
+        "title": "Mr. Soul",
+        "track": 2
+    },
     "a1a95066-562a-4c39-a4e9-a01b479b3954": {
         "album": "Greatest Hits",
         "album_artist": "Al Green",
@@ -5386,6 +6502,16 @@
         "title": "LET'S GET MARRIED",
         "track": 14
     },
+    "a259a78a-68d6-4a83-916b-fee6f58c7a8c": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 186.75900000000001,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/12 Don't Let It Bring You Down.wma",
+        "title": "Don't Let It Bring You Down",
+        "track": 12
+    },
     "a3b4603a-ed87-4a77-a1fe-53c503caa803": {
         "album": "Stadium Arcadium Disc 1",
         "album_artist": "Red Hot Chili Peppers",
@@ -5395,6 +6521,16 @@
         "path": "/home/gunch/Music/Red Hot Chili Peppers/Stadium Arcadium Disc 1/10 Especially in Michigan.wma",
         "title": "Especially in Michigan",
         "track": 10
+    },
+    "a3bb4fd4-a289-467a-9ca5-1a50c2009e64": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 281.64,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/09 Tonight's the Night, Pt. 1.wma",
+        "title": "Tonight's the Night, Pt. 1",
+        "track": 9
     },
     "a42ab08d-3071-4ff1-9bb4-9146e4966835": {
         "album": "GUILTY GEAR -STRIVE- ORIGINAL SOUNDTRACK Necessary Discrepancy",
@@ -5501,6 +6637,17 @@
         "title": "(Love Is Like A) Heatwave",
         "track": 14
     },
+    "a71d21ab-910d-4674-b91d-abf3dcf88b52": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Kit Walters",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 130.24072562358276,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/23 The Stains of Time (Maniac Agenda.m4a",
+        "title": "The Stains of Time (Maniac Agenda Mix - Instrumental)",
+        "track": 23
+    },
     "a71e2a52-d015-45e5-a332-9d78354b44b1": {
         "album": "Future Past",
         "album_artist": "Duran Duran",
@@ -5533,6 +6680,16 @@
         "path": "/home/gunch/Music/Compilations/HIStory - PAST, PRESENT AND FUTURE - BOO/1-03 Black or White.m4a",
         "title": "Black or White",
         "track": 3
+    },
+    "a74cb100-53d4-49bb-b373-a3d085adcbd4": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 250.93200000000002,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/05 Peace of Mind.wma",
+        "title": "Peace of Mind",
+        "track": 5
     },
     "a754f292-139e-4506-b8e2-418caffa88e6": {
         "album": "Doo-Wops & Hooligans",
@@ -5692,6 +6849,14 @@
         "title": "I Can't Get Next To You",
         "track": 7
     },
+    "ad188136-066b-47cd-9e8d-82fc614a0eb4": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 603.759,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/08 Track 8.wma",
+        "title": "Down by the River",
+        "track": 8
+    },
     "ad4d6517-bf3a-423d-a37b-ba11a143e8bd": {
         "album": "VH1 Storytellers",
         "album_artist": "R.E.M.",
@@ -5712,6 +6877,16 @@
         "title": "Give In to Me",
         "track": 10
     },
+    "ad98473f-00db-4c24-b532-382cbeca73f8": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 204.773,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/06 Old Man.wma",
+        "title": "Old Man",
+        "track": 6
+    },
     "ad9d6ee2-a2e0-438d-bd00-56a38263de86": {
         "album": "Nevermind",
         "album_artist": "Nirvana",
@@ -5721,6 +6896,16 @@
         "path": "/home/gunch/Music/Nirvana/Nevermind/10 Stay Away.wma",
         "title": "Stay Away",
         "track": 10
+    },
+    "adfe556d-38eb-48b4-b1ee-708d5b1a09aa": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 241.132,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/05 Stringman.wma",
+        "title": "Stringman",
+        "track": 5
     },
     "ae0bf3cb-95d9-456e-993b-d729ddbe4bb7": {
         "album": "Stadium Arcadium Disc 2",
@@ -5732,6 +6917,16 @@
         "title": "So Much I",
         "track": 10
     },
+    "ae51b3eb-f020-415b-88f2-ae96620b5ca8": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 623.253,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/10 Natural Beauty.wma",
+        "title": "Natural Beauty",
+        "track": 10
+    },
     "ae57f24d-2388-4196-aef9-32fe0dee429c": {
         "album": "Automatic for the People",
         "album_artist": "R.E.M.",
@@ -5741,6 +6936,17 @@
         "path": "/home/gunch/Music/R.E.M/Automatic for the People/08 Ignoreland.wma",
         "title": "Ignoreland",
         "track": 8
+    },
+    "ae7242bd-9df0-46f5-8f7a-5ba86a320484": {
+        "album": "Nostalzia",
+        "album_artist": "Dazbee",
+        "artist": "Dazbee",
+        "date": "2025-09-23T07:00:00Z",
+        "duration": 183.60018140589568,
+        "genre": "J-Pop",
+        "path": "/home/gunch/Music/Dazbee/Nostalzia/06 シンパシー.m4a",
+        "title": "シンパシー",
+        "track": 6
     },
     "ae767776-1135-4520-805a-777a388a884d": {
         "album": "Invincible",
@@ -5774,6 +6980,17 @@
         "title": "Zion Train",
         "track": 6
     },
+    "af76dbb8-b1b1-41b5-ac62-4b512c7882bf": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jimmy Gnecco",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 175.56607709750568,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/11 It Has To Be This Way (Platinum M.m4a",
+        "title": "It Has To Be This Way (Platinum Mix)",
+        "track": 11
+    },
     "afdf09a3-b037-4d1c-ae72-42ae6c4fd075": {
         "album": "Contraband: The Best of Men at Work",
         "album_artist": "Men at Work",
@@ -5805,16 +7022,6 @@
         "path": "/home/gunch/Music/Stephen Sanchez/Until I Found You - Single/01 Until I Found You.m4a",
         "title": "Until I Found You",
         "track": 1
-    },
-    "b09338d5-b26a-4477-871d-5e2ef3c13cbe": {
-        "album": "Maniac Agenda Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 146.3329931972789,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Maniac Agenda Mix/The Only Thing I Know For Real.m4a",
-        "title": "Jamie Christopherson - The Only Thing I Know For Real (Maniac Agenda Mix)",
-        "track": 4
     },
     "b10d0fed-6399-4ccd-b287-9a2b7037c89c": {
         "album": "Nevermind",
@@ -5878,6 +7085,17 @@
         "title": "On My Own",
         "track": 11
     },
+    "b4435467-1568-4500-9775-b7341f09b8aa": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Free Dominguez",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 145.7748752834467,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/05 A Stranger I Remain (Maniac Agend.m4a",
+        "title": "A Stranger I Remain (Maniac Agenda Mix)",
+        "track": 5
+    },
     "b4527b80-628c-4ca9-848f-6c49fa636e46": {
         "album": "Nevermind",
         "album_artist": "Nirvana",
@@ -5887,6 +7105,26 @@
         "path": "/home/gunch/Music/Nirvana/Nevermind/08 Drain You.wma",
         "title": "Drain You",
         "track": 8
+    },
+    "b48601bd-8924-42d1-a2cb-2fc7e036c1b0": {
+        "album": "Mirror Ball",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 308.293,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Mirror Ball/04 Big Green Country.wma",
+        "title": "Big Green Country",
+        "track": 4
+    },
+    "b4ef26e8-540c-4ce1-8e0d-699ad056d6b8": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 275.133,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/01 Out on the Weekend.wma",
+        "title": "Out on the Weekend",
+        "track": 1
     },
     "b5b65b92-8e0d-4bb1-98aa-b2f93b1a8582": {
         "album": "Stadium Arcadium Disc 2",
@@ -5908,6 +7146,17 @@
         "path": "/home/gunch/Music/Low Roar/The Sky is Falling - Single/02 I Won't Be Long.m4a",
         "title": "I Won't Be Long",
         "track": 2
+    },
+    "b715139e-b3bd-40a3-86da-bbe4aa7ee663": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Tyson Yen",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 139.2500680272109,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/13 A Soul Can't Be Cut (Platinum Mix.m4a",
+        "title": "A Soul Can't Be Cut (Platinum Mix - DLC Version)",
+        "track": 13
     },
     "b7ad2326-f78b-4430-a0eb-0951db5adefa": {
         "album": "Stadium Arcadium Disc 2",
@@ -5971,6 +7220,16 @@
         "title": "Livin' For You",
         "track": 13
     },
+    "b986168b-c2ed-4da3-bab1-fcf626b9c1cd": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 362.133,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/04 (Quit) Don't Say You Love Me.wma",
+        "title": "(Quit) Don't Say You Love Me",
+        "track": 4
+    },
     "b997c55b-70df-4820-aa62-2d041b30db10": {
         "album": "Acoustic: Bradley Nowell & Friends",
         "album_artist": "Sublime",
@@ -5980,6 +7239,16 @@
         "path": "/home/gunch/Music/Sublime/Acoustic- Bradley Nowell & Friends/02 Saw Red.wma",
         "title": "Saw Red",
         "track": 2
+    },
+    "b9b0435e-afab-4618-b522-0c844da53c90": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 350.986,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/14 From Hank to Hendrix.wma",
+        "title": "From Hank to Hendrix",
+        "track": 14
     },
     "b9c6b184-13da-460f-a991-61126ca6ad55": {
         "album": "Guardians of the Galaxy: Awesome Mix, Vol. 1 (Original Motion Picture Soundtrack)",
@@ -6013,6 +7282,16 @@
         "title": "Primadonna",
         "track": 2
     },
+    "ba3eb627-9ccc-4006-962b-d6f77611c817": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 186.799,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/06 Heart of Gold.wma",
+        "title": "Heart of Gold",
+        "track": 6
+    },
     "badc2422-bc8d-4663-9098-dbbbcaf71a99": {
         "album": "Duran Duran [The Wedding Album]",
         "album_artist": "Duran Duran",
@@ -6022,6 +7301,14 @@
         "path": "/home/gunch/Music/Duran Duran/Duran Duran [The Wedding Album]/02 Ordinary World.wma",
         "title": "Ordinary World",
         "track": 2
+    },
+    "bbeb2baf-004f-4865-be10-d589c9df4d5e": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 384.119,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/10 Track 10.wma",
+        "title": "Southern Man",
+        "track": 10
     },
     "bc57b346-a2f7-441e-9b10-c312418db787": {
         "album": "Sheryl Crow",
@@ -6033,6 +7320,14 @@
         "title": "Love Is a Good Thing",
         "track": 9
     },
+    "bcd94655-dadc-4fe2-884a-f691889353c5": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 324.906,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/12 Track 12.wma",
+        "title": "Hippie Dream",
+        "track": 12
+    },
     "bd347ec7-fe8d-407e-8c86-b6345947ec1e": {
         "album": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "album_artist": "Michael Jackson",
@@ -6043,6 +7338,16 @@
         "path": "/home/gunch/Music/Compilations/HIStory - PAST, PRESENT AND FUTURE - BOO/1-15 Heal the World.m4a",
         "title": "Heal the World",
         "track": 15
+    },
+    "bd3ca840-8597-4559-8314-7a5cb92e8e0f": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 170.132,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/03 Mr. Soul.wma",
+        "title": "Mr. Soul",
+        "track": 3
     },
     "bd4215f4-19bc-4be1-8838-4f774f431eee": {
         "album": "Famous Men",
@@ -6170,6 +7475,16 @@
         "title": "Trigger (ジオヴァーナ テーマ)",
         "track": 21
     },
+    "bfb49c02-a3c3-4a65-a068-9a4bed15267d": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 242.226,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/08 Alabama.wma",
+        "title": "Alabama",
+        "track": 8
+    },
     "bfd51c30-4e74-4b57-bbbb-b15855d567e0": {
         "album": "Greatest",
         "album_artist": "Duran Duran",
@@ -6233,16 +7548,6 @@
         "title": "Down by the Sea",
         "track": 16
     },
-    "c0b7b49c-323c-49f1-95f0-207ea13faaec": {
-        "album": "Platinum Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 141.44,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Platinum Mix/Dark Skies.m4a",
-        "title": "Jamie Christopherson - Dark Skies (Platinum Mix)",
-        "track": 4
-    },
     "c136b6e3-60f4-45a6-a311-351d6737c9bd": {
         "album": "Future Past",
         "album_artist": "Duran Duran",
@@ -6252,6 +7557,17 @@
         "genre": "Alternative",
         "path": "/home/gunch/Music/Duran Duran/Future Past/02 All of You.m4a",
         "title": "All of You",
+        "track": 2
+    },
+    "c15e110c-59f2-47ce-9794-b824fb546f6a": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Tyson Yen",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 146.40181405895692,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/02 The Only Thing I Know For Real (M.m4a",
+        "title": "The Only Thing I Know For Real (Maniac Agenda Mix)",
         "track": 2
     },
     "c1de655e-5fc0-4bf0-a89f-495229eda4c5": {
@@ -6363,6 +7679,14 @@
         "title": "Rich",
         "track": 2
     },
+    "c3592b5d-a239-431a-9696-00f913891739": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 208.75900000000001,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/04 Track 4.wma",
+        "title": "It Might Have Been",
+        "track": 4
+    },
     "c3757449-138f-4ef7-9be9-ee62890a2828": {
         "album": "Born and Raised",
         "album_artist": "John Mayer",
@@ -6425,6 +7749,16 @@
         "title": "Civil War",
         "track": 6
     },
+    "c61f5324-fc0d-4264-a9e8-3879bc608ac3": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 306.026,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/05 War of Man.wma",
+        "title": "War of Man",
+        "track": 5
+    },
     "c674be93-05b7-48ff-8197-0ff362146d28": {
         "album": "0",
         "album_artist": "Low Roar",
@@ -6478,6 +7812,16 @@
         "title": "Endgame [Instrumental]",
         "track": 5
     },
+    "c8aca98c-ae6f-44d4-9e7d-d2be8e4b751c": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 225.93200000000002,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/14 After the Gold Rush.wma",
+        "title": "After the Gold Rush",
+        "track": 14
+    },
     "c8be922a-ccea-4450-b0b2-fca362db7701": {
         "album": "Acoustic: Bradley Nowell & Friends",
         "album_artist": "Sublime",
@@ -6487,6 +7831,17 @@
         "path": "/home/gunch/Music/Sublime/Acoustic- Bradley Nowell & Friends/07 Garden Grove [Live].wma",
         "title": "Garden Grove [Live]",
         "track": 7
+    },
+    "c8d86d5f-722b-4e64-ba13-1993bdb03ba0": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 300.7912925170068,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/12 The War Still Rages Within.m4a",
+        "title": "The War Still Rages Within",
+        "track": 12
     },
     "c969ce75-1030-4c7b-b7ec-1e59a9da655d": {
         "album": "VH1 Storytellers",
@@ -6558,6 +7913,14 @@
         "path": "/home/gunch/Music/Bob Marley & The Wailers/Catch A Fire (Remastered 2013)/11 All Day All Night (Jamaican Versi.m4a",
         "title": "All Day All Night (Jamaican Version)",
         "track": 11
+    },
+    "cb165e51-e1c7-4bf4-a4f4-018244c7331b": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 546.586,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/03 Track 3.wma",
+        "title": "Southern Pacific",
+        "track": 3
     },
     "cb42c914-2b4b-49df-8b3f-6615dcfdab21": {
         "album": "Robbin' the Hood [Japan]",
@@ -6666,6 +8029,16 @@
         "title": "Sassafras Roots",
         "track": 9
     },
+    "cd7e8b1d-6362-4493-98be-15a719753862": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 180.999,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/12 For the Turnstiles.wma",
+        "title": "For the Turnstiles",
+        "track": 12
+    },
     "cdbdadf8-d251-4fe8-b1e9-1cbadd8b93b1": {
         "album": "Dookie",
         "album_artist": "Green Day",
@@ -6687,6 +8060,16 @@
         "title": "Earth Song",
         "track": 5
     },
+    "cdf7dccc-b183-49d9-ac78-e26c08bfdb73": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 273.293,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/10 Tired Eyes.wma",
+        "title": "Tired Eyes",
+        "track": 10
+    },
     "cee73a47-4e75-46a3-bcf3-57f5e396d937": {
         "album": "VH1 Storytellers",
         "album_artist": "R.E.M.",
@@ -6706,6 +8089,16 @@
         "path": "/home/gunch/Music/Maren Morris/Hero/06 Drunk Girls Don't Cry.m4a",
         "title": "Drunk Girls Don't Cry",
         "track": 6
+    },
+    "cfc16ce2-4080-430e-8614-acbb2c38c8b2": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 497.332,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/15 Like a Hurricane.wma",
+        "title": "Like a Hurricane",
+        "track": 15
     },
     "cfda10d0-1f10-4c3e-8450-f393e7f612e8": {
         "album": "The Golden Unplugged Album",
@@ -6769,6 +8162,16 @@
         "title": "Losing My Religion",
         "track": 11
     },
+    "d2dd0696-2345-4872-a864-c81c79eecac9": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 221.626,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/10 Without Rings.wma",
+        "title": "Without Rings",
+        "track": 10
+    },
     "d321b4cd-7c6b-40b5-af8e-8becb14f062b": {
         "album": "The Golden Unplugged Album",
         "album_artist": "Radiohead",
@@ -6820,6 +8223,16 @@
         "path": "/home/gunch/Music/Men at Work/Contraband- The Best of Men at Work/02 Down Under.wma",
         "title": "Down Under",
         "track": 2
+    },
+    "d43a1dd0-72b3-4010-85dd-3769de416d77": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 182.199,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/03 World on a String.wma",
+        "title": "World on a String",
+        "track": 3
     },
     "d43eb57d-ca1e-40ad-9565-8ae22468f4bd": {
         "album": "Uprising",
@@ -6895,6 +8308,24 @@
         "title": "We're Only Gonna Die for Our Own Arrogance",
         "track": 4
     },
+    "d618210a-bb5c-4f10-8f3f-a30254dbfac8": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "Stray Gators",
+        "duration": 400.28000000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/10 Words (Between the Lines of Age).wma",
+        "title": "Words (Between the Lines of Age)",
+        "track": 10
+    },
+    "d65d817f-5f7a-4ca6-8298-14188064b6f5": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 229.466,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/09 Track 9.wma",
+        "title": "If You Got Love",
+        "track": 9
+    },
     "d687ef1d-7409-4542-a35f-9ab18518aaa3": {
         "album": "The Singles (Deluxe Edition)",
         "album_artist": "Phil Collins",
@@ -6905,6 +8336,16 @@
         "path": "/home/gunch/Music/Compilations/The Singles (Deluxe Edition)/3-02 Wear My Hat.m4a",
         "title": "Wear My Hat",
         "track": 2
+    },
+    "d72dfd2b-f5ce-4908-8bf4-0d015a75ed4d": {
+        "album": "Comes a Time",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 191.226,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Comes a Time/09 Motorcycle Mama.wma",
+        "title": "Motorcycle Mama",
+        "track": 9
     },
     "d7483226-2c57-454a-8bef-469e0121f927": {
         "album": "XSCAPE (Deluxe)",
@@ -6958,6 +8399,17 @@
         "title": "Apache Rose Peacock",
         "track": 13
     },
+    "d8800d7f-7b49-430f-89a7-d58fbcb0b09a": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Graeme Cornies",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 141.50240362811792,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/03 Dark Skies (Platinum Mix).m4a",
+        "title": "Dark Skies (Platinum Mix)",
+        "track": 3
+    },
     "d8ab852c-6e02-4121-9733-c3089b8df1eb": {
         "album": "Asia",
         "album_artist": "Asia",
@@ -6980,6 +8432,16 @@
         "title": "Childhood (Theme from \"Free Willy 2\")",
         "track": 10
     },
+    "d9227ba2-29dd-4f9e-a422-36ff7a7d173a": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 140.106,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/07 I Am a Child.wma",
+        "title": "I Am a Child",
+        "track": 7
+    },
     "d9665060-d373-4dec-91e4-867c5700e80c": {
         "album": "Sheryl Crow",
         "album_artist": "Sheryl Crow",
@@ -7001,6 +8463,16 @@
         "title": "Guiltiness",
         "track": 3
     },
+    "d9a62bf2-895b-4229-a81b-23d459fe86b4": {
+        "album": "Harvest",
+        "album_artist": "Neil Young",
+        "artist": "The London Symphony Orchestra",
+        "duration": 179.332,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest/07 There's a World.wma",
+        "title": "There's a World",
+        "track": 7
+    },
     "d9b95760-9ef0-4568-b9dc-8b554668a95c": {
         "album": "Robbin' the Hood [Japan]",
         "album_artist": "Sublime",
@@ -7010,6 +8482,16 @@
         "path": "/home/gunch/Music/Sublime/Robbin' the Hood [Japan]/05 Steppin' Razor.wma",
         "title": "Steppin' Razor",
         "track": 5
+    },
+    "d9d8d6bd-5bff-49e6-be48-eacb1677c8db": {
+        "album": "Silver & Gold",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 241.75900000000001,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold/03 Daddy Went Walkin'.wma",
+        "title": "Daddy Went Walkin'",
+        "track": 3
     },
     "dac122a6-280f-40db-81df-8702d3f6ae5a": {
         "album": "Woods - Single",
@@ -7105,6 +8587,17 @@
         "title": "Tongue",
         "track": 7
     },
+    "dd1f4153-e449-41fa-911a-635d7ff36302": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Jason Miller",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 133.72371882086168,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/08 Red Sun (Maniac Agenda Mix).m4a",
+        "title": "Red Sun (Maniac Agenda Mix)",
+        "track": 8
+    },
     "dd2560eb-e20e-49fa-943a-368721eb76f0": {
         "album": "XSCAPE (Deluxe)",
         "album_artist": "Michael Jackson",
@@ -7125,6 +8618,17 @@
         "path": "/home/gunch/Music/Sheryl Crow/Sheryl Crow/01 Maybe Angels.wma",
         "title": "Maybe Angels",
         "track": 1
+    },
+    "dd4ad389-6dbc-486f-b64f-1b3aa1def63f": {
+        "album": "Metal Gear Rising Revengeance - Vocal Tracks Selection",
+        "album_artist": "Various Artists",
+        "artist": "Kit Walters",
+        "date": "2013-02-20T12:00:00Z",
+        "duration": 130.24072562358276,
+        "genre": "Soundtrack",
+        "path": "/home/gunch/Music/Metal Gear Rising Revengeance - Vocal Tr/07 The Stains of Time (Maniac Agenda.m4a",
+        "title": "The Stains of Time (Maniac Agenda Mix)",
+        "track": 7
     },
     "dda6c95d-9c2b-4880-af2f-038513f671db": {
         "album": "Exodus",
@@ -7179,6 +8683,16 @@
         "path": "/home/gunch/Music/Bob Marley & The Wailers/Uprising/11 Redemption Song (Band Version).m4a",
         "title": "Redemption Song (Band Version)",
         "track": 11
+    },
+    "dea66c9e-d4be-466e-abe8-9e19b68386fe": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 320.16,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/09 Harvest Moon.wma",
+        "title": "Harvest Moon",
+        "track": 9
     },
     "df918743-9726-44aa-ad3d-d889bd9eb9ed": {
         "album": "Until The Sun Explodes",
@@ -7306,16 +8820,6 @@
         "title": "Raleigh Soliloquy, Pt. I",
         "track": 3
     },
-    "e3904c30-8e68-4092-9234-d569eafac6ff": {
-        "album": "Maniac Agenda Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 133.6660090702948,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Maniac Agenda Mix/Red Sun.m4a",
-        "title": "Jamie Christopherson,Logan Mader - Red Sun (Maniac Agenda Mix)",
-        "track": 3
-    },
     "e3d5ba60-f647-4cb4-b410-4e16e04bb13b": {
         "album": "ross.",
         "album_artist": "Low Roar",
@@ -7369,6 +8873,16 @@
         "path": "/home/gunch/Music/Sublime/Until The Sun Explodes/12 The Problem With That Is It Makes.m4a",
         "title": "The Problem With That Is It Makes Me Stoked…",
         "track": 12
+    },
+    "e5ca80e0-3f92-4973-bd10-29da256c1d03": {
+        "album": "Harvest Moon",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 272.732,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Harvest Moon/01 Unknown Legend.wma",
+        "title": "Unknown Legend",
+        "track": 1
     },
     "e6706c20-ff86-4e0e-bca8-910c62763093": {
         "album": "The Hourglass",
@@ -7590,6 +9104,16 @@
         "title": "C'mon Girl",
         "track": 12
     },
+    "ec025d9d-caa6-45af-b98b-1ddbdb5d326a": {
+        "album": "Silver & Gold [KTS]",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 134.359,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Silver & Gold [KTS]/13 Down by the River.wma",
+        "title": "Down by the River",
+        "track": 13
+    },
     "ec124c7d-a97f-469d-ac7f-5ef1ce459edc": {
         "album": "Dookie",
         "album_artist": "Green Day",
@@ -7609,6 +9133,16 @@
         "path": "/home/gunch/Music/Sublime/Robbin' the Hood [Japan]/19 All You Need.wma",
         "title": "All You Need",
         "track": 19
+    },
+    "ec5c0165-3608-454a-bbcb-f4252e84be93": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 548.666,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/11 She's a Healer.wma",
+        "title": "She's a Healer",
+        "track": 11
     },
     "ed702fb6-6171-4177-8bbc-3bde31d57daf": {
         "album": "Contraband: The Best of Men at Work",
@@ -7714,6 +9248,16 @@
         "title": "Don't Let Him Steal Your Heart Away",
         "track": 7
     },
+    "f033b3d5-5192-4324-8bda-d7288c1d7a6d": {
+        "album": "Decade Disc 2",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 136.693,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 2/16 Love Is a Rose.wma",
+        "title": "Love Is a Rose",
+        "track": 16
+    },
     "f048ca86-dd77-410f-a88e-b5866d35efc4": {
         "album": "The Search for Everything",
         "album_artist": "John Mayer",
@@ -7788,6 +9332,16 @@
         "title": "Save a Prayer [US Single Version]",
         "track": 5
     },
+    "f2af226f-e40d-489b-b826-55e4e5d87a5f": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 347.50600000000003,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/08 Helpless.wma",
+        "title": "Helpless",
+        "track": 8
+    },
     "f2c42f90-fab0-400d-a7fd-b5f84b43e536": {
         "album": "40 Oz. to Freedom",
         "album_artist": "Sublime",
@@ -7797,6 +9351,27 @@
         "path": "/home/gunch/Music/Sublime/40 Oz. to Freedom/19 Hope.wma",
         "title": "Hope",
         "track": 19
+    },
+    "f2d4b44d-aeda-4c5b-a0d8-8eeb9add677b": {
+        "album": "Zuma",
+        "album_artist": "Neil Young & Crazy Horse",
+        "artist": "Neil Young & Crazy Horse",
+        "date": "1975",
+        "duration": 156.6175625,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Zuma/01 Don't Cry No Tears.mp3",
+        "title": "Don't Cry No Tears",
+        "track": 1
+    },
+    "f3447626-b78b-4fc5-b5fb-89199148ad01": {
+        "album": "Decade Disc 1",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 602.492,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Decade Disc 1/12 Cowgirl in the Sand.wma",
+        "title": "Cowgirl in the Sand",
+        "track": 12
     },
     "f37db7a2-a5a9-4e82-8800-c34299d67ef3": {
         "album": "Robbin' the Hood [Japan]",
@@ -7880,6 +9455,17 @@
         "title": "Call Me (Come Back Home)",
         "track": 2
     },
+    "f4a6d952-ab3c-4108-aca9-8894ca4b4a3f": {
+        "album": "Zuma",
+        "album_artist": "Neil Young & Crazy Horse",
+        "artist": "Neil Young & Crazy Horse",
+        "date": "1975",
+        "duration": 415.704875,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Zuma/02 Danger Bird.mp3",
+        "title": "Danger Bird",
+        "track": 2
+    },
     "f4a87a4e-f72f-40ea-a09d-f50d12f50c7b": {
         "album": "Uprising",
         "album_artist": "Bob Marley & The Wailers",
@@ -7911,16 +9497,6 @@
         "path": "/home/gunch/Music/PVRIS/F.I.L.T.H. - EP/02 F.I.L.T.H..m4a",
         "title": "F.I.L.T.H.",
         "track": 2
-    },
-    "f65cc7bb-3325-41ff-ac30-563751dbb546": {
-        "album": "Maniac Agenda Mix",
-        "artist": "Jamie Christopherson",
-        "date": "2013",
-        "duration": 145.70600907029478,
-        "genre": "Rock",
-        "path": "/home/gunch/Music/Metal Gear Rising Revengianse/Maniac Agenda Mix/A Stranger I Remain.m4a",
-        "title": "Jamie Christopherson - A Stranger I Remain (Maniac Agenda Mix)",
-        "track": 1
     },
     "f6794617-72e3-4100-8b1a-5b310d5fb6f9": {
         "album": "The Singles (Deluxe Edition)",
@@ -7965,6 +9541,14 @@
         "path": "/home/gunch/Music/Bruno Mars/Doo-Wops & Hooligans/08 Liquor Store Blues (feat. Damian.m4a",
         "title": "Liquor Store Blues (feat. Damian \"Jr. Gong\" Marley)",
         "track": 8
+    },
+    "f76222f0-934a-40ad-ac0e-dc49cfda8aa5": {
+        "album": "Hippie Dream",
+        "album_artist": "Neil Young",
+        "duration": 227.506,
+        "path": "/home/gunch/Music/Neil Young/Hippie Dream/06 Track 6.wma",
+        "title": "Field of Opportunity",
+        "track": 6
     },
     "f771484f-ca05-437a-bd19-3db317830979": {
         "album": "The Singles (Deluxe Edition)",
@@ -8106,6 +9690,16 @@
         "title": "The Name of Heaven (アーケードバージョンED テーマ)",
         "track": 6
     },
+    "fc30baab-5a96-4554-955d-9ba88c6dc04e": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 281.226,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/01 You're My Girl.wma",
+        "title": "You're My Girl",
+        "track": 1
+    },
     "fc974f2b-cd3e-400f-8d41-7e091c400411": {
         "album": "Acoustic: Bradley Nowell & Friends",
         "album_artist": "Sublime",
@@ -8115,6 +9709,17 @@
         "path": "/home/gunch/Music/Sublime/Acoustic- Bradley Nowell & Friends/11 Marley Medley- Guava Jelly-This Train.wma",
         "title": "Marley Medley: Guava Jelly/This Train",
         "track": 11
+    },
+    "fd803fe6-148b-4bcd-a41a-88f9cec0c861": {
+        "album": "Zuma",
+        "album_artist": "Neil Young & Crazy Horse",
+        "artist": "Neil Young & Crazy Horse",
+        "date": "1975",
+        "duration": 452.1663125,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Zuma/08 Cortez the Killer.mp3",
+        "title": "Cortez the Killer",
+        "track": 8
     },
     "fda94e34-6989-4ebb-9436-9c2f257a8ba4": {
         "album": "Inure - EP",
@@ -8126,6 +9731,16 @@
         "path": "/home/gunch/Music/Low Roar/Inure - EP/01 Time & Space.m4a",
         "title": "Time & Space",
         "track": 1
+    },
+    "fde76765-3a0b-4aaf-89d9-7360e306a1d0": {
+        "album": "Are You Passionate?",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 364.853,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Are You Passionate-/03 Differently.wma",
+        "title": "Differently",
+        "track": 3
     },
     "fdfff962-34a5-47e3-8230-896268bf0528": {
         "album": "The Search for Everything",
@@ -8231,6 +9846,16 @@
         "genre": "Alternative",
         "path": "/home/gunch/Music/Sublime/Robbin' the Hood [Japan]/12 Pool Shark [Acoustic].wma",
         "title": "Pool Shark [Acoustic]",
+        "track": 12
+    },
+    "ffa4e8ad-b11a-4cd8-98c0-9f4525a80cf4": {
+        "album": "Unplugged",
+        "album_artist": "Neil Young",
+        "artist": "Neil Young",
+        "duration": 357.333,
+        "genre": "Rock",
+        "path": "/home/gunch/Music/Neil Young/Unplugged/12 Look Out for My Love.wma",
+        "title": "Look Out for My Love",
         "track": 12
     },
     "ffabb5ab-b335-44a1-8ddf-d12086a79be0": {

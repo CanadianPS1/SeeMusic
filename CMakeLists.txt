@@ -13,11 +13,20 @@ if(UNIX AND NOT APPLE)
 	endif()
 
 	set(PACKAGES
+		base-devel
+		pkgconf
 		sdl2
+		sdl2-compat
 		glew
+		mesa
+		libglvnd
 		nlohmann-json
 		ffmpeg
 		util-linux
+		autoconf
+		autoconf-archive
+		automake
+		libtool
 	)
 
 	foreach(PACKAGE ${PACKAGES})
@@ -29,9 +38,10 @@ if(UNIX AND NOT APPLE)
 		)
 
 		if(NOT PACKAGE_RESULT EQUAL 0)
-			message(STATUS "${PACKAGE} is not installed. Installing...")
+			message(STATUS "Installing missing dependency: ${PACKAGE}")
+
 			execute_process(
-				COMMAND "${PACMAN_EXECUTABLE}" -S --needed --noconfirm ${PACKAGE}
+				COMMAND sudo "${PACMAN_EXECUTABLE}" -S --needed --noconfirm ${PACKAGE}
 				RESULT_VARIABLE INSTALL_RESULT
 			)
 
