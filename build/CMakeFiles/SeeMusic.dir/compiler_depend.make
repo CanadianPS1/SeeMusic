@@ -3438,7 +3438,7 @@ SeeMusic: /usr/lib/Scrt1.o \
   /usr/lib/libGLdispatch.so.0 \
   /usr/lib/libOpenCL.so.1 \
   /usr/lib/libOpenGL.so \
-  /usr/lib/libSDL2-2.0.so.0.3200.72 \
+  /usr/lib/libSDL2-2.0.so.0.3200.74 \
   /usr/lib/libSvtAv1Enc.so.4 \
   /usr/lib/libX11-xcb.so.1 \
   /usr/lib/libX11.so.6 \
@@ -3583,6 +3583,7 @@ SeeMusic: /usr/lib/Scrt1.o \
   /usr/lib32/liblzma.so.5 \
   /usr/lib32/libmount.so.1 \
   /usr/lib32/libnettle.so.9 \
+  /usr/lib32/libopus.so.0 \
   /usr/lib32/libp11-kit.so.0 \
   /usr/lib32/libpcre2-8.so.0 \
   /usr/lib32/libpng16.so.16 \
@@ -3633,6 +3634,8 @@ CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o:
 CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o:
 
 /usr/lib32/libp11-kit.so.0:
+
+/usr/lib32/libopus.so.0:
 
 /usr/lib32/libnettle.so.9:
 
@@ -3800,7 +3803,7 @@ CMakeFiles/SeeMusic.dir/backend/Playlist.cpp.o:
 
 /usr/lib/libSvtAv1Enc.so.4:
 
-/usr/lib/libSDL2-2.0.so.0.3200.72:
+/usr/lib/libSDL2-2.0.so.0.3200.74:
 
 /usr/lib/libOpenGL.so:
 

@@ -192,7 +192,7 @@ SeeMusic: CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o
 SeeMusic: CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o
 SeeMusic: CMakeFiles/SeeMusic.dir/build.make
 SeeMusic: CMakeFiles/SeeMusic.dir/compiler_depend.ts
-SeeMusic: /usr/lib/libSDL2-2.0.so.0.3200.72
+SeeMusic: /usr/lib/libSDL2-2.0.so.0.3200.74
 SeeMusic: /usr/lib/libGLEW.so
 SeeMusic: /usr/lib/libGLX.so
 SeeMusic: /usr/lib/libOpenGL.so

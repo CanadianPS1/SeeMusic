@@ -9,7 +9,7 @@ SeeMusic: \
   CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o \
   CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o \
   CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o \
-  /usr/lib/libSDL2-2.0.so.0.3200.72 \
+  /usr/lib/libSDL2-2.0.so.0.3200.74 \
   /usr/lib/libGLEW.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libavformat.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libavcodec.so \
@@ -231,7 +231,7 @@ CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o:
 
 CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 
-/usr/lib/libSDL2-2.0.so.0.3200.72:
+/usr/lib/libSDL2-2.0.so.0.3200.74:
 
 /usr/lib/libGLEW.so:
 

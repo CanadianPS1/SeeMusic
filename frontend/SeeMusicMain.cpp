@@ -11,6 +11,7 @@ namespace renderer{
             auto time2 = std::chrono::system_clock::now();
             bool running = true;
             music::Song::SyncSongs();
+            //music::Song::FillQueueWithSearch("album", "Until the Sun Explodes", 0);
             bool songPlayed = false;
             while(running){
                 time2 = std::chrono::system_clock::now();
