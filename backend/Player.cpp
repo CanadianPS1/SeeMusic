@@ -20,6 +20,8 @@ namespace music{
                 nlohmann::json queueJson = nlohmann::json::parse(queueFile);
                 if((queueJson["queue"].size() - 1) < queueJson["position"].get<int>()){
                     EraseQueue();
+                    SDL_CloseAudioDevice(device);
+                    SDL_Quit();
                     return;
                 }
                 std::string currentSongPath = queueJson["queue"].at(queueJson["position"].get<int>());
@@ -151,8 +153,6 @@ namespace music{
                     av_packet_unref(packet);
                 }
                 while(SDL_GetQueuedAudioSize(device) > 0) SDL_Delay(100);
-                SDL_CloseAudioDevice(device);
-                SDL_Quit();
                 av_frame_free(&frame);
                 av_packet_free(&packet);
                 swr_free(&swr);
