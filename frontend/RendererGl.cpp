@@ -1,5 +1,6 @@
 #include "RendererGl.hpp"
 #include <iostream>
+#include <stdexcept>
 #include <vector>
 namespace renderer{
     const char* RendererGL::vertexShaderSource = 
@@ -35,6 +36,7 @@ namespace renderer{
         "   }\n"
         "}\0";
     RendererGL::RendererGL(SDL_Window* setWindow) : window(setWindow){
+        loadOpenGLFunctions();
         loadShader();
         loadBuffers();
         setDrawColor(255,255,255,255);
@@ -44,6 +46,41 @@ namespace renderer{
         if(VAO > 0) glDeleteVertexArrays(1, &VAO);
         if(VBO > 0) glDeleteBuffers(1, &VBO);
         if(EBO > 0) glDeleteBuffers(1, &EBO);
+    }
+    void RendererGL::loadOpenGLFunctions(){
+        // Load every required entry point before creating any GL resources.
+#define LOAD_GL(name) \
+        name = reinterpret_cast<decltype(name)>(SDL_GL_GetProcAddress(#name)); \
+        if(name == nullptr) \
+            throw std::runtime_error(std::string("Could not load OpenGL function ") + #name + ": " + SDL_GetError());
+        LOAD_GL(glAttachShader)
+        LOAD_GL(glBindBuffer)
+        LOAD_GL(glBindVertexArray)
+        LOAD_GL(glBufferData)
+        LOAD_GL(glCompileShader)
+        LOAD_GL(glCreateProgram)
+        LOAD_GL(glCreateShader)
+        LOAD_GL(glDeleteBuffers)
+        LOAD_GL(glDeleteProgram)
+        LOAD_GL(glDeleteShader)
+        LOAD_GL(glDeleteVertexArrays)
+        LOAD_GL(glEnableVertexAttribArray)
+        LOAD_GL(glGenBuffers)
+        LOAD_GL(glGenVertexArrays)
+        LOAD_GL(glGetProgramInfoLog)
+        LOAD_GL(glGetProgramiv)
+        LOAD_GL(glGetShaderInfoLog)
+        LOAD_GL(glGetShaderiv)
+        LOAD_GL(glGetUniformLocation)
+        LOAD_GL(glLinkProgram)
+        LOAD_GL(glShaderSource)
+        LOAD_GL(glUniform1f)
+        LOAD_GL(glUniform1i)
+        LOAD_GL(glUniform2f)
+        LOAD_GL(glUniform4f)
+        LOAD_GL(glUseProgram)
+        LOAD_GL(glVertexAttribPointer)
+#undef LOAD_GL
     }
     void RendererGL::loadShader(){
         const GLuint vertexShaderID = glCreateShader(GL_VERTEX_SHADER);
