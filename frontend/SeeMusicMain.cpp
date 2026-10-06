@@ -22,7 +22,7 @@ namespace renderer{
                 draw(window, rendererGL);
                 if(!songPlayed){
                     music::Player::PlaySong();
-                    songPlayed = true;
+                    //songPlayed = true;
                     std::cout<<"song played"<<std::endl;
                 }
             }
