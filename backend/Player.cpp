@@ -26,7 +26,7 @@ namespace music{
                 AVFormatContext*format = nullptr;
                 if(avformat_open_input(&format, currentSongPath.c_str(),nullptr,nullptr)<0) return;
                 if(avformat_find_stream_info(format,nullptr) < 0) return;
-                int streamIndex=av_find_best_stream(format,AVMEDIA_TYPE_AUDIO,-1,-1,nullptr,0);
+                int streamIndex = av_find_best_stream(format,AVMEDIA_TYPE_AUDIO,-1,-1,nullptr,0);
                 if(streamIndex < 0) return;
                 AVStream*stream = format->streams[streamIndex];
                 const AVCodec* codec = avcodec_find_decoder(stream->codecpar->codec_id);
