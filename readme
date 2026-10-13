@@ -1,0 +1,13 @@
+Open source music player for linux
+
+you can build and run it with
+
+cd build
+cmake ..
+make
+chmod + SeeMusic
+./SeeMusic
+
+i use arch and dont know if it will work on other linux distros/windows if they dont its just because the package install lines are diffrent for your OS so you 
+  would just need to update those or download the packages your self
+
