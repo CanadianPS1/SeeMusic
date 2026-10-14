@@ -25,21 +25,21 @@ namespace music{
                     return;
                 }
                 std::string currentSongPath = queueJson["queue"].at(queueJson["position"].get<int>());
-                AVFormatContext*format = nullptr;
-                if(avformat_open_input(&format, currentSongPath.c_str(),nullptr,nullptr)<0) return;
-                if(avformat_find_stream_info(format,nullptr) < 0) return;
-                int streamIndex = av_find_best_stream(format,AVMEDIA_TYPE_AUDIO,-1,-1,nullptr,0);
+                AVFormatContext* format = nullptr;
+                if(avformat_open_input(&format, currentSongPath.c_str(), nullptr, nullptr) < 0) return;
+                if(avformat_find_stream_info(format, nullptr) < 0) return;
+                int streamIndex = av_find_best_stream(format, AVMEDIA_TYPE_AUDIO, -1, -1, nullptr, 0);
                 if(streamIndex < 0) return;
-                AVStream*stream = format->streams[streamIndex];
+                AVStream* stream = format->streams[streamIndex];
                 const AVCodec* codec = avcodec_find_decoder(stream->codecpar->codec_id);
                 AVCodecContext* codecCtx = avcodec_alloc_context3(codec);
-                avcodec_parameters_to_context(codecCtx,stream->codecpar);
-                avcodec_open2(codecCtx,codec,nullptr);
-                SwrContext*swr = swr_alloc();
+                avcodec_parameters_to_context(codecCtx, stream->codecpar);
+                avcodec_open2(codecCtx,codec, nullptr);
+                SwrContext* swr = swr_alloc();
                 swr_alloc_set_opts2(&swr,
-                    &codecCtx->ch_layout,AV_SAMPLE_FMT_S16,codecCtx->sample_rate,
-                    &codecCtx->ch_layout,codecCtx->sample_fmt,codecCtx->sample_rate,
-                    0,nullptr);
+                    &codecCtx->ch_layout, AV_SAMPLE_FMT_S16, codecCtx->sample_rate,
+                    &codecCtx->ch_layout, codecCtx->sample_fmt, codecCtx->sample_rate,
+                    0, nullptr);
                 swr_init(swr);
                 SDL_Init(SDL_INIT_AUDIO);
                 SDL_AudioSpec spec{};
@@ -47,16 +47,16 @@ namespace music{
                 spec.format = AUDIO_S16SYS;
                 spec.channels = codecCtx->ch_layout.nb_channels;
                 spec.samples = 4096;
-                device = SDL_OpenAudioDevice(nullptr,0,&spec,nullptr,0);
-                SDL_PauseAudioDevice(device,0);
-                AVPacket*packet = av_packet_alloc();
-                AVFrame*frame = av_frame_alloc();
+                device = SDL_OpenAudioDevice(nullptr, 0, &spec, nullptr, 0);
+                SDL_PauseAudioDevice(device, 0);
+                AVPacket* packet = av_packet_alloc();
+                AVFrame* frame = av_frame_alloc();
                 bool skip = false;
-                while(av_read_frame(format,packet) >= 0 || skip){
+                while(av_read_frame(format, packet) >= 0 || skip){
                     if(packet->stream_index == streamIndex){
-                        avcodec_send_packet(codecCtx,packet);
-                        while(avcodec_receive_frame(codecCtx,frame) >= 0 || skip){
-                            uint8_t*output = nullptr;
+                        avcodec_send_packet(codecCtx, packet);
+                        while(avcodec_receive_frame(codecCtx, frame) >= 0 || skip){
+                            uint8_t* output = nullptr;
                             int outputSamples = av_rescale_rnd(
                                 swr_get_delay(swr,codecCtx->sample_rate) + frame->nb_samples,
                                 codecCtx->sample_rate,
@@ -64,21 +64,21 @@ namespace music{
                                 AV_ROUND_UP
                             );
                             av_samples_alloc(
-                                &output,nullptr,
+                                &output, nullptr,
                                 codecCtx->ch_layout.nb_channels,
                                 outputSamples,
                                 AV_SAMPLE_FMT_S16,0
                             );
-                            int samples=swr_convert(
-                                swr,&output,outputSamples,
-                                (const uint8_t**)frame->extended_data,frame->nb_samples
+                            int samples = swr_convert(
+                                swr, &output, outputSamples,
+                                (const uint8_t**)frame->extended_data, frame->nb_samples
                             );
                             do{
                                 std::ifstream envFile("../.env/env.json");
                                 nlohmann::json envJson = nlohmann::json::parse(envFile);
                                 bool paused = envJson["Paused"].get<bool>();
                                 float volume = envJson["Volume"].get<float>();
-                                for(int i=0;i<samples*codecCtx->ch_layout.nb_channels;i++)((int16_t*)output)[i] *= volume;
+                                for(int i = 0; i < samples * codecCtx->ch_layout.nb_channels; i++)((int16_t*)output)[i] *= volume;
                                 if(paused){
                                     SDL_PauseAudioDevice(device, 1);
                                     SDL_Delay(10);
@@ -144,8 +144,7 @@ namespace music{
                                 if(!queueJson["queue"].empty()) PlaySong();
                                 return;
                             }
-                            SDL_QueueAudio(device,output,
-                                samples * codecCtx->ch_layout.nb_channels*sizeof(int16_t));
+                            SDL_QueueAudio(device, output, samples * codecCtx->ch_layout.nb_channels*sizeof(int16_t));
                             av_freep(&output);
                             SDL_Delay(21);
                         }
@@ -238,8 +237,8 @@ namespace music{
             std::ifstream queueFile("../.env/queue.json");
             nlohmann::json queueJson = nlohmann::json::parse(queueFile);
             queueJson = {
-            {"position",0},
-            {"queue",{}}
+                {"position", 0},
+                {"queue", {}}
             };
             std::ofstream endFile("../.env/queue.json");
             endFile<<queueJson.dump(4);
