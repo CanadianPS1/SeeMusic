@@ -4,6 +4,7 @@
 #include "RendererGl.hpp"
 #include "../backend/Songs.hpp"
 #include "../backend/Player.hpp"
+#include "MakeShape.hpp"
 namespace renderer{
     SeeMusic::SeeMusic(SDL_Window* window, RendererGL* rendererGL){
         if(window != nullptr && rendererGL != nullptr){
@@ -189,21 +190,17 @@ namespace renderer{
         if(rendererGL == nullptr) return;
         glClearColor(0.0f, 0.25f, 0.75f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT);
-        SDL_Rect rect = {50,80,150,80};
-        rendererGL->setDrawColor(213,116,0,255);
-        rendererGL->fillOval(&rect);
-        rect = {110,260,110,130};
-        rendererGL->setDrawColor(255,255,0,255);
-        rendererGL->fillOval(&rect);
-        rect = {320,125,150,200};
-        rendererGL->setDrawColor(190,74,194,255);
-        rendererGL->fillOval(&rect);
-        rect = {610,60,150,180};
-        rendererGL->setDrawColor(0,224,74,255);
-        rendererGL->fillOval(&rect);
-        rect = {590,330,240,135};
-        rendererGL->setDrawColor(255,0,0,255);
-        rendererGL->fillOval(&rect);
+        std::vector<Shape*> shapes;
+        shapes.push_back(CreateShape::CreateRectangle(50,80,150,80, 213, 80, 150, 80));
+        shapes.push_back(CreateShape::CreateRectangle(110, 260, 110, 130, 255, 255, 0, 255));
+        shapes.push_back(CreateShape::CreateRectangle(320, 125, 150, 200, 190, 74, 194, 255));
+        shapes.push_back(CreateShape::CreateRectangle(610, 60, 150, 180, 0, 244, 74, 255));
+        shapes.push_back(CreateShape::CreateRectangle(590, 330, 240, 135, 255, 0, 0, 255));
+        for(Shape* shape : shapes){
+            rendererGL->setDrawColor(shape->color.x, shape->color.y, shape->color.z, shape->color.a);
+            rendererGL->fillOval(&shape->shape);
+            delete shape;
+        }
         rendererGL->swapWindow();
     }
 }

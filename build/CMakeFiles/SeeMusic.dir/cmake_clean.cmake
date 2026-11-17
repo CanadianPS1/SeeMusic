@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o.d"
   "CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o"
   "CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o.d"
+  "CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o"
+  "CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o.d"
   "CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o"
   "CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o.d"
   "CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o"

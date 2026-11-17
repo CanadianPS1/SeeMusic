@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/gunch/Documents/GitHub/SeeMusic/backend/Playlist.cpp" "CMakeFiles/SeeMusic.dir/backend/Playlist.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/backend/Playlist.cpp.o.d"
   "/home/gunch/Documents/GitHub/SeeMusic/backend/Songs.cpp" "CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o.d"
   "/home/gunch/Documents/GitHub/SeeMusic/frontend/FrontEndMain.cpp" "CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o.d"
+  "/home/gunch/Documents/GitHub/SeeMusic/frontend/MakeShape.cpp" "CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o.d"
   "/home/gunch/Documents/GitHub/SeeMusic/frontend/RendererGl.cpp" "CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o.d"
   "/home/gunch/Documents/GitHub/SeeMusic/frontend/SeeMusicMain.cpp" "CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o" "gcc" "CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o.d"
   "" "SeeMusic" "gcc" "CMakeFiles/SeeMusic.dir/link.d"

@@ -7,6 +7,7 @@ SeeMusic: \
   CMakeFiles/SeeMusic.dir/backend/Playlist.cpp.o \
   CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o \
   CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o \
+  CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o \
   CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o \
   CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o \
   /usr/lib/libSDL2-2.0.so.0.3200.74 \
@@ -96,7 +97,9 @@ SeeMusic: \
   /usr/lib/libSvtAv1Enc.so.4 \
   /usr/lib/libtheoraenc.so.2 \
   /usr/lib/libtheoradec.so.2 \
+  /usr/lib32/libvorbis.so.0 \
   /usr/lib/libvorbis.so.0 \
+  /usr/lib32/libvorbisenc.so.2 \
   /usr/lib/libvorbisenc.so.2 \
   /usr/lib/libwebp.so.7 \
   /usr/lib/libx264.so.165 \
@@ -121,7 +124,9 @@ SeeMusic: \
   /usr/lib/libGLdispatch.so.0 \
   /usr/lib32/libicuuc.so.78 \
   /usr/lib/libicuuc.so.78 \
+  /usr/lib32/libmpg123.so.0 \
   /usr/lib/libmpg123.so.0 \
+  /usr/lib32/libvorbisfile.so.3 \
   /usr/lib/libvorbisfile.so.3 \
   /usr/lib32/libfontconfig.so.1 \
   /usr/lib/libfontconfig.so.1 \
@@ -140,8 +145,8 @@ SeeMusic: \
   /usr/lib/libhogweed.so.7 \
   /usr/lib32/libnettle.so.9 \
   /usr/lib/libnettle.so.9 \
-  /usr/lib32/libcrypto.so.3 \
-  /usr/lib/libcrypto.so.3 \
+  /usr/lib32/libcrypto.so.4 \
+  /usr/lib/libcrypto.so.4 \
   /usr/lib/libsodium.so.26 \
   /usr/lib/libpgm-5.3.so.0 \
   /usr/lib32/libgio-2.0.so.0 \
@@ -153,6 +158,7 @@ SeeMusic: \
   /usr/lib/libpng16.so.16 \
   /usr/lib32/libXext.so.6 \
   /usr/lib/libXext.so.6 \
+  /usr/lib32/libXrender.so.1 \
   /usr/lib/libXrender.so.1 \
   /usr/lib32/libxcb.so.1 \
   /usr/lib/libxcb.so.1 \
@@ -171,6 +177,7 @@ SeeMusic: \
   /usr/lib/libbrotlidec.so.1 \
   /usr/lib32/libbrotlienc.so.1 \
   /usr/lib/libbrotlienc.so.1 \
+  /usr/lib32/libogg.so.0 \
   /usr/lib/libogg.so.0 \
   /usr/lib/libsharpyuv.so.0 \
   /usr/lib/libmvec.so.1 \
@@ -226,6 +233,8 @@ CMakeFiles/SeeMusic.dir/backend/Playlist.cpp.o:
 CMakeFiles/SeeMusic.dir/backend/Songs.cpp.o:
 
 CMakeFiles/SeeMusic.dir/frontend/FrontEndMain.cpp.o:
+
+CMakeFiles/SeeMusic.dir/frontend/MakeShape.cpp.o:
 
 CMakeFiles/SeeMusic.dir/frontend/RendererGl.cpp.o:
 
@@ -405,7 +414,11 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 
 /usr/lib/libtheoradec.so.2:
 
+/usr/lib32/libvorbis.so.0:
+
 /usr/lib/libvorbis.so.0:
+
+/usr/lib32/libvorbisenc.so.2:
 
 /usr/lib/libvorbisenc.so.2:
 
@@ -455,7 +468,11 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 
 /usr/lib/libicuuc.so.78:
 
+/usr/lib32/libmpg123.so.0:
+
 /usr/lib/libmpg123.so.0:
+
+/usr/lib32/libvorbisfile.so.3:
 
 /usr/lib/libvorbisfile.so.3:
 
@@ -493,9 +510,9 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 
 /usr/lib/libnettle.so.9:
 
-/usr/lib32/libcrypto.so.3:
+/usr/lib32/libcrypto.so.4:
 
-/usr/lib/libcrypto.so.3:
+/usr/lib/libcrypto.so.4:
 
 /usr/lib/libsodium.so.26:
 
@@ -518,6 +535,8 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 /usr/lib32/libXext.so.6:
 
 /usr/lib/libXext.so.6:
+
+/usr/lib32/libXrender.so.1:
 
 /usr/lib/libXrender.so.1:
 
@@ -554,6 +573,8 @@ CMakeFiles/SeeMusic.dir/frontend/SeeMusicMain.cpp.o:
 /usr/lib32/libbrotlienc.so.1:
 
 /usr/lib/libbrotlienc.so.1:
+
+/usr/lib32/libogg.so.0:
 
 /usr/lib/libogg.so.0:
 
