@@ -8,6 +8,7 @@ namespace renderer{
             SeeMusic(SDL_Window* window, RendererGL* rendererGL);
             ~SeeMusic();
         private:
+            void ProcessFrameData(bool& running, SDL_Window* window, RendererGL* rendererGL);
             void processEvents(bool& running);
             void draw(SDL_Window* window, RendererGL* rendererGL);
     };

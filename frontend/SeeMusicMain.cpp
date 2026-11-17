@@ -20,8 +20,7 @@ namespace renderer{
                 float timeDeltaFloat = timeDelta.count();
                 time1 = time2;
                 const float dT = std::min(timeDeltaFloat, 1.0f /20.0f);
-                processEvents(running);
-                draw(window, rendererGL);
+                ProcessFrameData(running, window, rendererGL);
                 if(!songPlayed){
                     music::Player::PlaySong();
                     songPlayed = true;
@@ -29,6 +28,10 @@ namespace renderer{
                 }
             }
         }
+    }
+    void SeeMusic::ProcessFrameData(bool &running, SDL_Window *window, RendererGL *rendererGL){
+        processEvents(running);
+        draw(window, rendererGL);
     }
     SeeMusic::~SeeMusic(){
         
